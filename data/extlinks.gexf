@@ -3,7 +3,7 @@
   <graph defaultedgetype="directed" mode="static" name="">
     <meta>
       <creator>NetworkX 2.1</creator>
-      <lastmodified>30/08/2018</lastmodified>
+      <lastmodified>04/09/2018</lastmodified>
     </meta>
     <nodes>
       <node id="ar" label="ar" />
@@ -554,66 +554,46 @@
       <node id="http://www.zeit.de/politik/ausland/2014-07/raketenangriffe-israel" label="http://www.zeit.de/politik/ausland/2014-07/raketenangriffe-israel" />
       <node id="https://commons.wikimedia.org/wiki/Category:Operation_Protective_Edge?uselang=bs" label="https://commons.wikimedia.org/wiki/Category:Operation_Protective_Edge?uselang=bs" />
       <node id="ca" label="ca" />
-      <node id="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" label="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" />
-      <node id="http://9tv.co.il/news/2014/07/22/181023.html" label="http://9tv.co.il/news/2014/07/22/181023.html" />
-      <node id="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" label="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" />
-      <node id="http://ad.easa.europa.eu/ad/2014-22R1" label="http://ad.easa.europa.eu/ad/2014-22R1" />
-      <node id="http://alhayat.com/Articles/3755275/-%D8%AD%D9%85%D8%A7%D8%B3---%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-" label="http://alhayat.com/Articles/3755275/-%D8%AD%D9%85%D8%A7%D8%B3---%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-" />
-      <node id="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" label="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
-      <node id="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" label="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" />
-      <node id="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" label="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" />
-      <node id="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" label="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" />
-      <node id="http://news.biharprabha.com/2014/07/john-kerry-to-travel-to-egypt-to-pursue-a-ceasefire-in-gaza/" label="http://news.biharprabha.com/2014/07/john-kerry-to-travel-to-egypt-to-pursue-a-ceasefire-in-gaza/" />
-      <node id="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" label="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
-      <node id="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" label="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
-      <node id="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" label="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" />
-      <node id="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" label="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" />
-      <node id="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" label="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" />
-      <node id="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" label="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" />
       <node id="http://www.ara.cat/fotografies/franja-Gaza-bombes_5_1171132876.html" label="http://www.ara.cat/fotografies/franja-Gaza-bombes_5_1171132876.html" />
       <node id="http://www.ara.cat/mon/Israel-Palestina-franja_de_Gaza_0_1172282916.html" label="http://www.ara.cat/mon/Israel-Palestina-franja_de_Gaza_0_1172282916.html" />
       <node id="http://www.ara.cat/mon/Israel-llanca-incursio-terrestre-Gaza_0_1176482599.html" label="http://www.ara.cat/mon/Israel-llanca-incursio-terrestre-Gaza_0_1176482599.html" />
       <node id="http://www.ara.cat/mon/Israel-ofensiva-franja-Gaza_0_1171083102.html" label="http://www.ara.cat/mon/Israel-ofensiva-franja-Gaza_0_1171083102.html" />
+      <node id="http://alhayat.com/Articles/3755275/-%D8%AD%D9%85%D8%A7%D8%B3---%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-" label="http://alhayat.com/Articles/3755275/-%D8%AD%D9%85%D8%A7%D8%B3---%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-" />
+      <node id="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" label="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" />
+      <node id="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" label="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" />
       <node id="http://www.bbc.com/news/world-middle-east-28156268" label="http://www.bbc.com/news/world-middle-east-28156268" />
+      <node id="http://news.biharprabha.com/2014/07/john-kerry-to-travel-to-egypt-to-pursue-a-ceasefire-in-gaza/" label="http://news.biharprabha.com/2014/07/john-kerry-to-travel-to-egypt-to-pursue-a-ceasefire-in-gaza/" />
       <node id="http://www.bloomberg.com/news/2014-07-08/israel-strikes-gaza-by-air-and-sea-in-operation-to-halt-rockets.html" label="http://www.bloomberg.com/news/2014-07-08/israel-strikes-gaza-by-air-and-sea-in-operation-to-halt-rockets.html" />
       <node id="http://www.bostonglobe.com/news/world/2014/07/23/european-carriers-suspend-more-tel-aviv-flights/WvGEP81gF6qyOtGLZ5HCyM/story.html?p1=Article_Related" label="http://www.bostonglobe.com/news/world/2014/07/23/european-carriers-suspend-more-tel-aviv-flights/WvGEP81gF6qyOtGLZ5HCyM/story.html?p1=Article_Related" />
+      <node id="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" label="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
+      <node id="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" label="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" />
+      <node id="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" label="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" />
       <node id="http://www.cnn.com/2014/07/21/world/meast/mideast-crisis/" label="http://www.cnn.com/2014/07/21/world/meast/mideast-crisis/" />
       <node id="http://www.csmonitor.com/USA/Society/2014/0715/US-media-coverage-of-Gaza-is-deeply-flawed-both-sides-in-conflict-say" label="http://www.csmonitor.com/USA/Society/2014/0715/US-media-coverage-of-Gaza-is-deeply-flawed-both-sides-in-conflict-say" />
       <node id="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" label="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" />
-      <node id="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" label="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" />
       <node id="http://www.digitaljournal.com/news/world/new-israeli-air-strikes-bring-gaza-toll-to-200-medics/article/390129" label="http://www.digitaljournal.com/news/world/new-israeli-air-strikes-bring-gaza-toll-to-200-medics/article/390129" />
       <node id="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" label="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" />
-      <node id="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" label="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" />
-      <node id="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" label="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" />
+      <node id="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" label="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" />
+      <node id="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" label="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" />
       <node id="http://www.foxnews.com/world/2014/07/26/humanitarian-cease-fire-in-gaza-takes-effect/" label="http://www.foxnews.com/world/2014/07/26/humanitarian-cease-fire-in-gaza-takes-effect/" />
+      <node id="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" label="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" />
+      <node id="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" label="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" />
       <node id="http://www.haaretz.com/mobile/.premium-1.609595" label="http://www.haaretz.com/mobile/.premium-1.609595" />
       <node id="http://www.haaretz.com/news/diplomacy-defense/israel-gaza-conflict-2014/1.606655" label="http://www.haaretz.com/news/diplomacy-defense/israel-gaza-conflict-2014/1.606655" />
       <node id="http://www.haaretz.com/polopoly_fs/1.607580.1406536924!/image/2320157484.jpg" label="http://www.haaretz.com/polopoly_fs/1.607580.1406536924!/image/2320157484.jpg" />
-      <node id="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" label="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" />
-      <node id="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" label="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" />
       <node id="http://www.israelhayom.com/site/newsletter_article.php?id=18987" label="http://www.israelhayom.com/site/newsletter_article.php?id=18987" />
       <node id="http://www.jewishpress.com/news/breaking-news/rocket-sirens-in-tel-aviv-and-ben-gurion-airport/2014/07/13" label="http://www.jewishpress.com/news/breaking-news/rocket-sirens-in-tel-aviv-and-ben-gurion-airport/2014/07/13" />
       <node id="http://www.jpost.com/Operation-Protective-Edge/Report-US-considering-grounding-flights-to-Israel-amid-rocket-threat-368492" label="http://www.jpost.com/Operation-Protective-Edge/Report-US-considering-grounding-flights-to-Israel-amid-rocket-threat-368492" />
       <node id="http://www.lavanguardia.com/internacional/20140708/54411712094/suenan-las-alarmas-antiaereas-por-primera-vez-en-jerusalen.html" label="http://www.lavanguardia.com/internacional/20140708/54411712094/suenan-las-alarmas-antiaereas-por-primera-vez-en-jerusalen.html" />
-      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
-      <node id="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" label="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" />
       <node id="http://www.mcclatchydc.com/2014/07/23/234131/faa-bars-us-flights-to-israel.html" label="http://www.mcclatchydc.com/2014/07/23/234131/faa-bars-us-flights-to-israel.html" />
-      <node id="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" label="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
-      <node id="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" label="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" />
       <node id="http://www.newsweek.com/israel-days-completing-tunnel-hunt-amid-un-condemnation-262257" label="http://www.newsweek.com/israel-days-completing-tunnel-hunt-amid-un-condemnation-262257" />
       <node id="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html" label="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html" />
       <node id="http://www.nytimes.com/2014/07/22/world/middleeast/us-advises-americans-to-put-off-travel-to-israel.html?_r=0" label="http://www.nytimes.com/2014/07/22/world/middleeast/us-advises-americans-to-put-off-travel-to-israel.html?_r=0" />
       <node id="http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html?_r=0" label="http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html?_r=0" />
-      <node id="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" label="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" />
-      <node id="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" label="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
-      <node id="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" label="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" />
-      <node id="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" label="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" />
-      <node id="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" label="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" />
       <node id="http://www.richardsilverstein.com/2014/07/07/operation-mighty-cliff-gaza-invasion-begins/" label="http://www.richardsilverstein.com/2014/07/07/operation-mighty-cliff-gaza-invasion-begins/" />
-      <node id="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" label="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
       <node id="http://www.thedalleschronicle.com/news/2014/apr/23/gaza-official-israeli-airstrike-wounds-3/" label="http://www.thedalleschronicle.com/news/2014/apr/23/gaza-official-israeli-airstrike-wounds-3/" />
-      <node id="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" label="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" />
       <node id="http://www.theguardian.com/world/2014/jul/11/ramadan-gaza-life-under-missile-fire" label="http://www.theguardian.com/world/2014/jul/11/ramadan-gaza-life-under-missile-fire" />
+      <node id="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" label="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" />
       <node id="http://www.timesofisrael.com/as-gaza-death-tolls-climbs-press-increasingly-critical-of-israel" label="http://www.timesofisrael.com/as-gaza-death-tolls-climbs-press-increasingly-critical-of-israel" />
       <node id="http://www.timesofisrael.com/as-israel-grapples-with-homegrown-killers-violence-continues" label="http://www.timesofisrael.com/as-israel-grapples-with-homegrown-killers-violence-continues" />
       <node id="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" label="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" />
@@ -629,28 +609,48 @@
       <node id="http://www.washingtonpost.com/world/middle_east/after-a-week-of-fighting-between-israel-and-hamas-talk-turns-to-diplomacy/2014/07/14/c1bf9f84-0536-4dc5-93b7-cc51ba3e4aa3_story.html" label="http://www.washingtonpost.com/world/middle_east/after-a-week-of-fighting-between-israel-and-hamas-talk-turns-to-diplomacy/2014/07/14/c1bf9f84-0536-4dc5-93b7-cc51ba3e4aa3_story.html" />
       <node id="http://www.ynetnews.com/articles/0,7340,L-4551863,00.html" label="http://www.ynetnews.com/articles/0,7340,L-4551863,00.html" />
       <node id="http://www.ynetnews.com/articles/0,7340,L-4552306,00.html" label="http://www.ynetnews.com/articles/0,7340,L-4552306,00.html" />
-      <node id="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" label="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" />
+      <node id="http://ad.easa.europa.eu/ad/2014-22R1" label="http://ad.easa.europa.eu/ad/2014-22R1" />
+      <node id="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" label="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" />
+      <node id="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" label="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
+      <node id="http://9tv.co.il/news/2014/07/22/181023.html" label="http://9tv.co.il/news/2014/07/22/181023.html" />
+      <node id="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" label="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" />
+      <node id="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" label="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" />
+      <node id="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" label="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" />
+      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
+      <node id="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" label="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
+      <node id="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" label="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
+      <node id="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" label="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" />
+      <node id="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" label="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
+      <node id="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" label="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" />
+      <node id="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" label="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" />
+      <node id="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" label="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" />
+      <node id="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" label="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" />
+      <node id="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" label="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" />
+      <node id="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" label="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" />
+      <node id="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" label="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" />
+      <node id="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" label="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
       <node id="https://www.bbc.com/news/world-middle-east-13331522" label="https://www.bbc.com/news/world-middle-east-13331522" />
       <node id="https://www.youtube.com/watch?v=TydoLmhMaDo" label="https://www.youtube.com/watch?v=TydoLmhMaDo" />
+      <node id="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" label="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" />
       <node id="cs" label="cs" />
       <node id="http://english.al-akhbar.com/content/palestinian-boy-goes-missing-jerusalem-report" label="http://english.al-akhbar.com/content/palestinian-boy-goes-missing-jerusalem-report" />
-      <node id="http://id.loc.gov/authorities/names/sh2016001997" label="http://id.loc.gov/authorities/names/sh2016001997" />
-      <node id="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" label="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" />
-      <node id="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" label="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" />
       <node id="http://www.al-monitor.com/pulse/originals/2014/06/hamas-israel-confrontation-hebron-kidnapping.html#" label="http://www.al-monitor.com/pulse/originals/2014/06/hamas-israel-confrontation-hebron-kidnapping.html#" />
-      <node id="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" label="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" />
-      <node id="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" label="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" />
       <node id="http://www.idfblog.com/blog/2014/07/08/breaking-idf-commences-operation-protective-edge-against-hamas/" label="http://www.idfblog.com/blog/2014/07/08/breaking-idf-commences-operation-protective-edge-against-hamas/" />
-      <node id="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" label="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" />
       <node id="http://www.jpost.com/Operation-Brothers-Keeper/In-extended-version-of-kidnapped-teens-call-to-police-murderers-heard-singing-in-celebration-361270" label="http://www.jpost.com/Operation-Brothers-Keeper/In-extended-version-of-kidnapped-teens-call-to-police-murderers-heard-singing-in-celebration-361270" />
-      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
-      <node id="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" label="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" />
+      <node id="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" label="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" />
       <node id="http://www.nytimes.com/2014/07/07/world/middleeast/israel-palestinians-muhammad-abu-khdeir.html?_r=0" label="http://www.nytimes.com/2014/07/07/world/middleeast/israel-palestinians-muhammad-abu-khdeir.html?_r=0" />
       <node id="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=1" label="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=1" />
-      <node id="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" label="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" />
-      <node id="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" label="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" />
       <node id="http://www.slate.com/blogs/the_slatest/2014/07/07/israeli_kidnapping_confession_palestinian_teenager_allegedly_burned_alive.html" label="http://www.slate.com/blogs/the_slatest/2014/07/07/israeli_kidnapping_confession_palestinian_teenager_allegedly_burned_alive.html" />
+      <node id="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" label="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" />
+      <node id="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" label="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" />
+      <node id="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" label="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" />
+      <node id="http://id.loc.gov/authorities/names/sh2016001997" label="http://id.loc.gov/authorities/names/sh2016001997" />
+      <node id="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" label="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" />
+      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
+      <node id="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" label="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" />
+      <node id="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" label="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" />
       <node id="http://www.worldcat.org/identities/lccn-sh2016001997" label="http://www.worldcat.org/identities/lccn-sh2016001997" />
+      <node id="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" label="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" />
       <node id="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict?oldid=622404438" label="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict?oldid=622404438" />
       <node id="cy" label="cy" />
       <node id="http://972mag.com/five-israeli-soldiers-killed-in-gaza-palestinian-death-toll-hits-1088/94571/" label="http://972mag.com/five-israeli-soldiers-killed-in-gaza-palestinian-death-toll-hits-1088/94571/" />
@@ -955,41 +955,40 @@
       <node id="https://www.youtube.com/watch?v=KNOyBMBPvY0" label="https://www.youtube.com/watch?v=KNOyBMBPvY0" />
       <node id="diq" label="diq" />
       <node id="el" label="el" />
+      <node id="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" label="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" />
       <node id="http://edition.cnn.com/2014/07/29/world/meast/mideast-crisis/index.html?hpt=hp_inthenews" label="http://edition.cnn.com/2014/07/29/world/meast/mideast-crisis/index.html?hpt=hp_inthenews" />
       <node id="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" label="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" />
-      <node id="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" label="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" />
-      <node id="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" label="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" />
+      <node id="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" label="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
+      <node id="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" label="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" />
       <node id="http://mignatiou.com/2014/06/anigi-i-porta-tis-kolasis-nekri-i-3-israilini-mathites/" label="http://mignatiou.com/2014/06/anigi-i-porta-tis-kolasis-nekri-i-3-israilini-mathites/" />
       <node id="http://mignatiou.com/2014/07/vrochi-me-rouketes-tis-chamas-sto-israil/" label="http://mignatiou.com/2014/07/vrochi-me-rouketes-tis-chamas-sto-israil/" />
-      <node id="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" label="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" />
-      <node id="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" label="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" />
+      <node id="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" label="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
+      <node id="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" label="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" />
+      <node id="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" label="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" />
+      <node id="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" label="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
+      <node id="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" label="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" />
+      <node id="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" label="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" />
+      <node id="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" label="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" />
+      <node id="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" label="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" />
+      <node id="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" label="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" />
+      <node id="http://www.avgi.gr/article/3205013/agria-dolofonia-17xronou-palaistiniou-se-antipoina-gia-tous-3-efibous" label="http://www.avgi.gr/article/3205013/agria-dolofonia-17xronou-palaistiniou-se-antipoina-gia-tous-3-efibous" />
+      <node id="http://www.capital.gr/news.asp?id=2058862" label="http://www.capital.gr/news.asp?id=2058862" />
+      <node id="http://www.capital.gr/news.asp?id=2060321" label="http://www.capital.gr/news.asp?id=2060321" />
+      <node id="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" label="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" />
       <node id="http://news.in.gr/world/article/?aid=1231331159" label="http://news.in.gr/world/article/?aid=1231331159" />
       <node id="http://news.in.gr/world/article/?aid=1231333286" label="http://news.in.gr/world/article/?aid=1231333286" />
       <node id="http://news.in.gr/world/article/?aid=1231334493" label="http://news.in.gr/world/article/?aid=1231334493" />
       <node id="http://news.in.gr/world/article/?aid=1231338110" label="http://news.in.gr/world/article/?aid=1231338110" />
-      <node id="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" label="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
-      <node id="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" label="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
-      <node id="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" label="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" />
-      <node id="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" label="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" />
-      <node id="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" label="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" />
-      <node id="http://www.avgi.gr/article/3205013/agria-dolofonia-17xronou-palaistiniou-se-antipoina-gia-tous-3-efibous" label="http://www.avgi.gr/article/3205013/agria-dolofonia-17xronou-palaistiniou-se-antipoina-gia-tous-3-efibous" />
-      <node id="http://www.capital.gr/news.asp?id=2058862" label="http://www.capital.gr/news.asp?id=2058862" />
-      <node id="http://www.capital.gr/news.asp?id=2060321" label="http://www.capital.gr/news.asp?id=2060321" />
-      <node id="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" label="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" />
-      <node id="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" label="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" />
-      <node id="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" label="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" />
-      <node id="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" label="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" />
-      <node id="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" label="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
       <node id="http://www.kathimerini.gr/775163/article/epikairothta/kosmos/me-antekdikhsh-apeilei-h-xamas" label="http://www.kathimerini.gr/775163/article/epikairothta/kosmos/me-antekdikhsh-apeilei-h-xamas" />
       <node id="http://www.kathimerini.gr/775688/article/epikairothta/kosmos/dekades-nekroi-sth-gaza-apo-toys-vomvardismoys" label="http://www.kathimerini.gr/775688/article/epikairothta/kosmos/dekades-nekroi-sth-gaza-apo-toys-vomvardismoys" />
       <node id="http://www.kathimerini.gr/777972/article/epikairothta/kosmos/o-netaniaxoy-vlepei-paratetameno-polemo" label="http://www.kathimerini.gr/777972/article/epikairothta/kosmos/o-netaniaxoy-vlepei-paratetameno-polemo" />
       <node id="http://www.kathimerini.gr/778389/article/epikairothta/kosmos/ey8ynes-sth-xamas-epirriptei-to-israhl-gia-ton-vomvardismo-toy-sxoleioy" label="http://www.kathimerini.gr/778389/article/epikairothta/kosmos/ey8ynes-sth-xamas-epirriptei-to-israhl-gia-ton-vomvardismo-toy-sxoleioy" />
       <node id="http://www.katohika.gr/2014/07/vomvardismos-nosokomeiou-sto-kentro-tis-gazas.html" label="http://www.katohika.gr/2014/07/vomvardismos-nosokomeiou-sto-kentro-tis-gazas.html" />
-      <node id="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" label="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" />
-      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
+      <node id="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" label="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" />
       <node id="http://www.mfa.gr/epikairotita/proto-thema/delose-tou-antiproedrou-tes-kuberneses-kai-upourgou-exoterikon-eu-benizelou-meta-to-sumboulio-exoterikon-upotheseon-tes-ee-skhetika-me-ten-katastase-ste-mese-anatole-bruxelles-22072014.html" label="http://www.mfa.gr/epikairotita/proto-thema/delose-tou-antiproedrou-tes-kuberneses-kai-upourgou-exoterikon-eu-benizelou-meta-to-sumboulio-exoterikon-upotheseon-tes-ee-skhetika-me-ten-katastase-ste-mese-anatole-bruxelles-22072014.html" />
       <node id="http://www.naftemporiki.gr/story/835916/gaza-ekexeiria-kai-diapragmateuseis-proteinei-o-mpan-ki-moun" label="http://www.naftemporiki.gr/story/835916/gaza-ekexeiria-kai-diapragmateuseis-proteinei-o-mpan-ki-moun" />
       <node id="http://www.naftemporiki.gr/story/836051/sunedriazei-to-sumboulio-anthropinon-dikaiomaton-tou-oie-gia-ti-gaza" label="http://www.naftemporiki.gr/story/836051/sunedriazei-to-sumboulio-anthropinon-dikaiomaton-tou-oie-gia-ti-gaza" />
+      <node id="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" label="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" />
       <node id="http://www.newsbomb.gr/diethnh/story/470748/israil-kamia-ekeheiria-me-ti-hamas" label="http://www.newsbomb.gr/diethnh/story/470748/israil-kamia-ekeheiria-me-ti-hamas" />
       <node id="http://www.pentapostagma.gr/2014/07/21-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CE%B9-%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CF%87%CE%B5%CF%81%CF%83%CE%B1%CE%AF%CE%B1-%CE%B5%CF%80.html#.U899VXTPJok" label="http://www.pentapostagma.gr/2014/07/21-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CE%B9-%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CF%87%CE%B5%CF%81%CF%83%CE%B1%CE%AF%CE%B1-%CE%B5%CF%80.html#.U899VXTPJok" />
       <node id="http://www.protothema.gr/world/article/398553/netaniahou-den-tha-stamatisoume-mehri-na-katastrepsoume-ola-ta-tounel-tis-hamas/" label="http://www.protothema.gr/world/article/398553/netaniahou-den-tha-stamatisoume-mehri-na-katastrepsoume-ola-ta-tounel-tis-hamas/" />
@@ -998,18 +997,19 @@
       <node id="http://www.skai.gr/news/world/article/261720/israil-i-israilini-aeroporia-pragmatopoiise-ti-nuhta-160-epidromes-sti-gaza-/" label="http://www.skai.gr/news/world/article/261720/israil-i-israilini-aeroporia-pragmatopoiise-ti-nuhta-160-epidromes-sti-gaza-/" />
       <node id="http://www.skai.gr/news/world/article/262957/netaniahou-to-israil-na-einai-etoimo-gia-paratetameni-dienexi-sti-gaza/" label="http://www.skai.gr/news/world/article/262957/netaniahou-to-israil-na-einai-etoimo-gia-paratetameni-dienexi-sti-gaza/" />
       <node id="http://www.thepressproject.gr/article/66263/To-Israil-skotonei-paidia-ston-upno-tous" label="http://www.thepressproject.gr/article/66263/To-Israil-skotonei-paidia-ston-upno-tous" />
-      <node id="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" label="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" />
-      <node id="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" label="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" />
       <node id="http://www.tribune.gr/world/news/article/49702/machmount-ampas-israil-diapratti-genoktonia.html" label="http://www.tribune.gr/world/news/article/49702/machmount-ampas-israil-diapratti-genoktonia.html" />
       <node id="http://www.tsantiri.gr/kosmos/tumpana_polemou_se_palaistini_-_israil/" label="http://www.tsantiri.gr/kosmos/tumpana_polemou_se_palaistini_-_israil/" />
+      <node id="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" label="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" />
+      <node id="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" label="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" />
+      <node id="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" label="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
+      <node id="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" label="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" />
       <node id="http://www.unitar.org/unosat/node/44/2041?utm_source=unosat-unitar&amp;utm_medium=rss&amp;utm_campaign=maps" label="http://www.unitar.org/unosat/node/44/2041?utm_source=unosat-unitar&amp;utm_medium=rss&amp;utm_campaign=maps" />
       <node id="http://www.unrwa.org/newsroom/official-statements/unrwa-strongly-condemns-israeli-shelling-its-school-gaza-serious" label="http://www.unrwa.org/newsroom/official-statements/unrwa-strongly-condemns-israeli-shelling-its-school-gaza-serious" />
-      <node id="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" label="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
-      <node id="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" label="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" />
-      <node id="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" label="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" />
-      <node id="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" label="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" />
+      <node id="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" label="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
+      <node id="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" label="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" />
       <node id="https://www.eleftheriaonline.gr/ellada-kosmos/item/42059-netaniaxou-den-tha-stamatisoume-mexri-na-katastrepsoume-ola-ta-toynel-tis-xamas" label="https://www.eleftheriaonline.gr/ellada-kosmos/item/42059-netaniaxou-den-tha-stamatisoume-mexri-na-katastrepsoume-ola-ta-toynel-tis-xamas" />
       <node id="https://www.hol.gr/eidiseis-kosmos/article/53621/sfagi-sti-gaza-apo-sfyrokopima-toy-israil" label="https://www.hol.gr/eidiseis-kosmos/article/53621/sfagi-sti-gaza-apo-sfyrokopima-toy-israil" />
+      <node id="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" label="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" />
       <node id="en" label="en" />
       <node id="//www.jpost.com/Operation-Protective-Edge/Journalists-threatened-by-Hamas-for-reporting-use-of-human-shields-369619" label="//www.jpost.com/Operation-Protective-Edge/Journalists-threatened-by-Hamas-for-reporting-use-of-human-shields-369619" />
       <node id="http://972mag.com/palestinian-teen-i-was-used-as-a-human-shield-in-gaza/95800" label="http://972mag.com/palestinian-teen-i-was-used-as-a-human-shield-in-gaza/95800" />
@@ -3383,22 +3383,14 @@
       <node id="https://www.fidh.org/IMG/pdf/report_gaza_fidh_march_2015.pdf" label="https://www.fidh.org/IMG/pdf/report_gaza_fidh_march_2015.pdf" />
       <node id="no" label="no" />
       <node id="http://972mag.com/gaza-dispatch-why-the-destruction-in-beit-hanoun-is-different/95128/" label="http://972mag.com/gaza-dispatch-why-the-destruction-in-beit-hanoun-is-different/95128/" />
-      <node id="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" label="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" />
-      <node id="http://www.bbc.com/news/world-middle-east-29086193" label="http://www.bbc.com/news/world-middle-east-29086193" />
       <node id="http://blogs.forward.com/jj-goldberg/201863/how-the-gaza-war-started-and-how-it-can-end/?" label="http://blogs.forward.com/jj-goldberg/201863/how-the-gaza-war-started-and-how-it-can-end/?" />
-      <node id="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" label="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" />
-      <node id="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" label="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" />
-      <node id="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" label="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" />
-      <node id="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" label="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" />
-      <node id="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" label="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" />
-      <node id="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" label="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" />
-      <node id="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" label="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" />
-      <node id="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" label="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" />
       <node id="http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" label="http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" />
       <node id="http://www.adressa.no/nyheter/utenriks/article9972305.ece" label="http://www.adressa.no/nyheter/utenriks/article9972305.ece" />
       <node id="http://www.aftenposten.no/nyheter/uriks/Amnesty-med-harde-anklager-mot-Israel-7773348.html" label="http://www.aftenposten.no/nyheter/uriks/Amnesty-med-harde-anklager-mot-Israel-7773348.html" />
-      <node id="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" label="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" />
       <node id="http://www.aftenposten.no/nyheter/uriks/Israel-straffer-Palestina-for-ICC-soknad-7846537.html" label="http://www.aftenposten.no/nyheter/uriks/Israel-straffer-Palestina-for-ICC-soknad-7846537.html" />
+      <node id="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" label="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" />
+      <node id="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" label="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" />
+      <node id="http://www.bbc.com/news/world-middle-east-29086193" label="http://www.bbc.com/news/world-middle-east-29086193" />
       <node id="http://www.dagbladet.no/2014/07/10/kultur/kronikk/meninger/israel/gaza/34280563/" label="http://www.dagbladet.no/2014/07/10/kultur/kronikk/meninger/israel/gaza/34280563/" />
       <node id="http://www.dagbladet.no/2014/07/18/nyheter/utenriks/israel/gaza/hamas/34401434/" label="http://www.dagbladet.no/2014/07/18/nyheter/utenriks/israel/gaza/hamas/34401434/" />
       <node id="http://www.dagbladet.no/2014/08/04/nyheter/utenriks/israel/gaza/vapenhvile/34625947/" label="http://www.dagbladet.no/2014/08/04/nyheter/utenriks/israel/gaza/vapenhvile/34625947/" />
@@ -3406,6 +3398,9 @@
       <node id="http://www.dagbladet.no/2014/08/07/nyheter/krig_og_konflikter/gaza/israel/hamas/34666058/" label="http://www.dagbladet.no/2014/08/07/nyheter/krig_og_konflikter/gaza/israel/hamas/34666058/" />
       <node id="http://www.dagsavisen.no/verden/vond-bismak-for-israel/" label="http://www.dagsavisen.no/verden/vond-bismak-for-israel/" />
       <node id="http://www.fvn.no/nyheter/utenriks/utenriks_ntb/EU-slutter-seg-til-Israel-kritikk-etter-skattestraff-2737851.html" label="http://www.fvn.no/nyheter/utenriks/utenriks_ntb/EU-slutter-seg-til-Israel-kritikk-etter-skattestraff-2737851.html" />
+      <node id="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" label="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" />
+      <node id="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" label="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" />
+      <node id="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" label="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" />
       <node id="http://www.nrk.no/verden/_hjernen_-bak-drapet-pa-israelske-tenaringer-domt-1.12134593" label="http://www.nrk.no/verden/_hjernen_-bak-drapet-pa-israelske-tenaringer-domt-1.12134593" />
       <node id="http://www.nrk.no/verden/en-tredagers-vapenhvile-er-i-gang-1.11858508" label="http://www.nrk.no/verden/en-tredagers-vapenhvile-er-i-gang-1.11858508" />
       <node id="http://www.nrk.no/verden/gaza-konflikt-kostet-55-milliarder-1.11911033" label="http://www.nrk.no/verden/gaza-konflikt-kostet-55-milliarder-1.11911033" />
@@ -3415,18 +3410,23 @@
       <node id="http://www.nrk.no/verden/kraftverk-angrepet-i-gaza-1.11853840" label="http://www.nrk.no/verden/kraftverk-angrepet-i-gaza-1.11853840" />
       <node id="http://www.nrk.no/verden/mest-oydeleggjande-krig-i-gaza-1.11875584" label="http://www.nrk.no/verden/mest-oydeleggjande-krig-i-gaza-1.11875584" />
       <node id="http://www.nrk.no/verden/palestinsk-icc-soknad-levert-1.12128954" label="http://www.nrk.no/verden/palestinsk-icc-soknad-levert-1.12128954" />
+      <node id="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" label="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" />
+      <node id="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" label="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" />
+      <node id="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" label="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" />
+      <node id="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" label="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" />
+      <node id="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" label="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" />
+      <node id="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" label="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" />
+      <node id="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" label="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" />
+      <node id="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" label="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" />
       <node id="http://www.vg.no/nyheter/meninger/midtoesten/israel-bryter-folkeretten/a/23246485/" label="http://www.vg.no/nyheter/meninger/midtoesten/israel-bryter-folkeretten/a/23246485/" />
-      <node id="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" label="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" />
       <node id="http://www.vg.no/nyheter/utenriks/gaza/dette-er-israels-maal/a/23259204/" label="http://www.vg.no/nyheter/utenriks/gaza/dette-er-israels-maal/a/23259204/" />
+      <node id="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" label="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" />
       <node id="http://www.vg.no/nyheter/utenriks/gaza/israelsk-skoleangrep-fordoemmes-av-fn/a/23264306/" label="http://www.vg.no/nyheter/utenriks/gaza/israelsk-skoleangrep-fordoemmes-av-fn/a/23264306/" />
       <node id="http://www.vg.no/nyheter/utenriks/gaza/styrker-jerngrepet-om-gaza/a/23258866/" label="http://www.vg.no/nyheter/utenriks/gaza/styrker-jerngrepet-om-gaza/a/23258866/" />
-      <node id="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" label="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" />
       <node id="http://www.vg.no/nyheter/utenriks/midtoesten/nye-israelske-angrep-mot-gazastripen/a/23248931/" label="http://www.vg.no/nyheter/utenriks/midtoesten/nye-israelske-angrep-mot-gazastripen/a/23248931/" />
+      <node id="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" label="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" />
       <node id="http://www.vg.no/nyheter/utenriks/midtoesten/vi-vil-ikke-gi-oss-foer-de-er-i-vaare-hender/a/23243869/" label="http://www.vg.no/nyheter/utenriks/midtoesten/vi-vil-ikke-gi-oss-foer-de-er-i-vaare-hender/a/23243869/" />
       <node id="http://www.vg.no/nyheter/utenriks/palestina/ban-ki-moon-godtar-palestinsk-icc-soeknad/a/23369688/" label="http://www.vg.no/nyheter/utenriks/palestina/ban-ki-moon-godtar-palestinsk-icc-soeknad/a/23369688/" />
-      <node id="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" label="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" />
-      <node id="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" label="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" />
-      <node id="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" label="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" />
       <node id="https://web.archive.org/web/20150103234413/http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" label="https://web.archive.org/web/20150103234413/http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" />
       <node id="https://web.archive.org/web/20150626164255/http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" label="https://web.archive.org/web/20150626164255/http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
       <node id="pl" label="pl" />
@@ -4052,44 +4052,44 @@
       <node id="vi" label="vi" />
       <node id="http://www.tagesschau.de/ausland/gaza-waffenruhe-100.html" label="http://www.tagesschau.de/ausland/gaza-waffenruhe-100.html" />
       <node id="zh" label="zh" />
+      <node id="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" label="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" />
+      <node id="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" label="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" />
+      <node id="http://cn.nytimes.com/world/20140717/c17israel/" label="http://cn.nytimes.com/world/20140717/c17israel/" />
+      <node id="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" label="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" />
+      <node id="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" label="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" />
+      <node id="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" label="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" />
+      <node id="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" label="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" />
+      <node id="http://m.news.sina.com.tw/article/20140802/13028508.html" label="http://m.news.sina.com.tw/article/20140802/13028508.html" />
       <node id="http://news.sina.com.cn/o/2014-07-09/091930492061.shtml" label="http://news.sina.com.cn/o/2014-07-09/091930492061.shtml" />
       <node id="http://news.sina.com.cn/w/2014-07-09/130730493369.shtml" label="http://news.sina.com.cn/w/2014-07-09/130730493369.shtml" />
-      <node id="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" label="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" />
-      <node id="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" label="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" />
-      <node id="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" label="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" />
-      <node id="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" label="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" />
-      <node id="http://www.haaretz.com/news/diplomacy-defense/1.605994" label="http://www.haaretz.com/news/diplomacy-defense/1.605994" />
-      <node id="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" label="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" />
-      <node id="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" label="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" />
-      <node id="http://cn.nytimes.com/world/20140717/c17israel/" label="http://cn.nytimes.com/world/20140717/c17israel/" />
-      <node id="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" label="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" />
-      <node id="http://www.thenewslens.com/post/65943/" label="http://www.thenewslens.com/post/65943/" />
-      <node id="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" label="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" />
-      <node id="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" label="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
-      <node id="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" label="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" />
       <node id="http://news.xinhuanet.com/2014-07/20/c_126772882.htm" label="http://news.xinhuanet.com/2014-07/20/c_126772882.htm" />
       <node id="http://news.xinhuanet.com/world/2014-07/08/c_1111518733.htm" label="http://news.xinhuanet.com/world/2014-07/08/c_1111518733.htm" />
       <node id="http://v.youku.com/v_show/id_XNzUxMDgwMDA4.html" label="http://v.youku.com/v_show/id_XNzUxMDgwMDA4.html" />
-      <node id="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" label="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" />
-      <node id="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" label="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" />
-      <node id="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" label="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" />
-      <node id="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" label="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
-      <node id="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" label="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" />
-      <node id="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" label="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" />
-      <node id="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" label="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" />
-      <node id="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" label="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" />
-      <node id="http://m.news.sina.com.tw/article/20140802/13028508.html" label="http://m.news.sina.com.tw/article/20140802/13028508.html" />
       <node id="http://www.bbc.co.uk/zhongwen/simp/world/2014/07/140719_gaza_casualties.shtml" label="http://www.bbc.co.uk/zhongwen/simp/world/2014/07/140719_gaza_casualties.shtml" />
-      <node id="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" label="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" />
+      <node id="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" label="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" />
+      <node id="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" label="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" />
+      <node id="http://www.haaretz.com/news/diplomacy-defense/1.605994" label="http://www.haaretz.com/news/diplomacy-defense/1.605994" />
+      <node id="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" label="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" />
+      <node id="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" label="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" />
+      <node id="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" label="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" />
+      <node id="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" label="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" />
+      <node id="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" label="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" />
+      <node id="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" label="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" />
+      <node id="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" label="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
+      <node id="http://www.thenewslens.com/post/65943/" label="http://www.thenewslens.com/post/65943/" />
+      <node id="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" label="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" />
+      <node id="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" label="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" />
+      <node id="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" label="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
+      <node id="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" label="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" />
+      <node id="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" label="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
       <node id="https://twitter.com/IDFSpokesperson/status/490157335914901504/photo/1" label="https://twitter.com/IDFSpokesperson/status/490157335914901504/photo/1" />
       <node id="https://twitter.com/Sophia_MJones/statuses/490797544914448385" label="https://twitter.com/Sophia_MJones/statuses/490797544914448385" />
-      <node id="https://www.youtube.com/watch?v=SM6WUoel7xk" label="https://www.youtube.com/watch?v=SM6WUoel7xk" />
-      <node id="https://www.youtube.com/watch?v=xjkwIMRZI8o" label="https://www.youtube.com/watch?v=xjkwIMRZI8o" />
-      <node id="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" label="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
       <node id="https://web.archive.org/web/20140727005451/http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" label="https://web.archive.org/web/20140727005451/http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
       <node id="https://web.archive.org/web/20140803200140/http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" label="https://web.archive.org/web/20140803200140/http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" />
       <node id="https://web.archive.org/web/20140808044248/http://m.aljazeera.com/story/2014730233016747143" label="https://web.archive.org/web/20140808044248/http://m.aljazeera.com/story/2014730233016747143" />
       <node id="https://web.archive.org/web/20160305011850/http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" label="https://web.archive.org/web/20160305011850/http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
+      <node id="https://www.youtube.com/watch?v=SM6WUoel7xk" label="https://www.youtube.com/watch?v=SM6WUoel7xk" />
+      <node id="https://www.youtube.com/watch?v=xjkwIMRZI8o" label="https://www.youtube.com/watch?v=xjkwIMRZI8o" />
     </nodes>
     <edges>
       <edge id="0" source="ar" target="//tools.wmflabs.org/geohack/geohack.php?language=ar&amp;pagename=%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%B9%D9%84%D9%89_%D8%BA%D8%B2%D8%A9_2014&amp;params=30.6667_N_34.8333_E_globe:earth_type:landmark" />
@@ -4638,128 +4638,128 @@
       <edge id="543" source="bs" target="http://www.unrwa.org/gaza-emergency" />
       <edge id="544" source="bs" target="http://www.zeit.de/politik/ausland/2014-07/raketenangriffe-israel" />
       <edge id="545" source="bs" target="https://commons.wikimedia.org/wiki/Category:Operation_Protective_Edge?uselang=bs" />
-      <edge id="546" source="ca" target="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" />
-      <edge id="547" source="ca" target="http://9tv.co.il/news/2014/07/22/181023.html" />
-      <edge id="548" source="ca" target="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" />
-      <edge id="549" source="ca" target="http://ad.easa.europa.eu/ad/2014-22R1" />
+      <edge id="546" source="ca" target="http://www.ara.cat/fotografies/franja-Gaza-bombes_5_1171132876.html" />
+      <edge id="547" source="ca" target="http://www.ara.cat/mon/Israel-Palestina-franja_de_Gaza_0_1172282916.html" />
+      <edge id="548" source="ca" target="http://www.ara.cat/mon/Israel-llanca-incursio-terrestre-Gaza_0_1176482599.html" />
+      <edge id="549" source="ca" target="http://www.ara.cat/mon/Israel-ofensiva-franja-Gaza_0_1171083102.html" />
       <edge id="550" source="ca" target="http://alhayat.com/Articles/3755275/-%D8%AD%D9%85%D8%A7%D8%B3---%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-" />
-      <edge id="551" source="ca" target="http://bigstory.ap.org/article/israel-says-its-downed-drone-along-southern-coast" />
-      <edge id="552" source="ca" target="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
-      <edge id="553" source="ca" target="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" />
-      <edge id="554" source="ca" target="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" />
-      <edge id="555" source="ca" target="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" />
-      <edge id="556" source="ca" target="http://m.aljazeera.com/story/2014730233016747143" />
+      <edge id="551" source="ca" target="http://m.aljazeera.com/story/2014730233016747143" />
+      <edge id="552" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" />
+      <edge id="553" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" />
+      <edge id="554" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/07/israel-temporarily-halt-fire-gaza-strip-201471620212427540.html" />
+      <edge id="555" source="ca" target="http://www.bbc.com/news/world-middle-east-28156268" />
+      <edge id="556" source="ca" target="http://www.bellinghamherald.com/2014/06/30/3726878/kidnapped-israeli-teens-found.html?sp=/99/101/235/" />
       <edge id="557" source="ca" target="http://news.biharprabha.com/2014/07/john-kerry-to-travel-to-egypt-to-pursue-a-ceasefire-in-gaza/" />
-      <edge id="558" source="ca" target="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
-      <edge id="559" source="ca" target="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
-      <edge id="560" source="ca" target="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" />
-      <edge id="561" source="ca" target="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" />
-      <edge id="562" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/06/palestinians-set-swear-unity-government-20146281348223961.html" />
-      <edge id="563" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/07/israel-temporarily-halt-fire-gaza-strip-201471620212427540.html" />
-      <edge id="564" source="ca" target="http://www.aljazeera.com/news/middleeast/2014/07/death-toll-climbs-as-israel-bombards-gaza-201471092828483396.html" />
-      <edge id="565" source="ca" target="http://www.ara.cat/fotografies/franja-Gaza-bombes_5_1171132876.html" />
-      <edge id="566" source="ca" target="http://www.ara.cat/mon/Israel-Palestina-franja_de_Gaza_0_1172282916.html" />
-      <edge id="567" source="ca" target="http://www.ara.cat/mon/Israel-llanca-incursio-terrestre-Gaza_0_1176482599.html" />
-      <edge id="568" source="ca" target="http://www.ara.cat/mon/Israel-ofensiva-franja-Gaza_0_1171083102.html" />
-      <edge id="569" source="ca" target="http://www.bbc.com/news/world-middle-east-28156268" />
-      <edge id="570" source="ca" target="http://www.bellinghamherald.com/2014/06/30/3726878/kidnapped-israeli-teens-found.html?sp=/99/101/235/" />
-      <edge id="571" source="ca" target="http://www.bloomberg.com/news/2014-07-08/israel-strikes-gaza-by-air-and-sea-in-operation-to-halt-rockets.html" />
-      <edge id="572" source="ca" target="http://www.bostonglobe.com/news/world/2014/07/23/european-carriers-suspend-more-tel-aviv-flights/WvGEP81gF6qyOtGLZ5HCyM/story.html?p1=Article_Related" />
-      <edge id="573" source="ca" target="http://www.btselem.org/gaza_strip/20140713_palestinians_killed_in_illegal_attacks_on_houses" />
-      <edge id="574" source="ca" target="http://www.cbsnews.com/news/israel-ids-2-main-suspects-in-teens-disappearance/" />
-      <edge id="575" source="ca" target="http://www.cnn.com/2014/07/21/world/meast/mideast-crisis/" />
-      <edge id="576" source="ca" target="http://www.csmonitor.com/USA/Society/2014/0715/US-media-coverage-of-Gaza-is-deeply-flawed-both-sides-in-conflict-say" />
-      <edge id="577" source="ca" target="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" />
-      <edge id="578" source="ca" target="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" />
-      <edge id="579" source="ca" target="http://www.digitaljournal.com/news/world/new-israeli-air-strikes-bring-gaza-toll-to-200-medics/article/390129" />
-      <edge id="580" source="ca" target="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" />
-      <edge id="581" source="ca" target="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" />
-      <edge id="582" source="ca" target="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" />
-      <edge id="583" source="ca" target="http://www.foxnews.com/world/2014/07/26/humanitarian-cease-fire-in-gaza-takes-effect/" />
-      <edge id="584" source="ca" target="http://www.haaretz.com/mobile/.premium-1.609595" />
-      <edge id="585" source="ca" target="http://www.haaretz.com/news/diplomacy-defense/israel-gaza-conflict-2014/1.606655" />
-      <edge id="586" source="ca" target="http://www.haaretz.com/polopoly_fs/1.607580.1406536924!/image/2320157484.jpg" />
-      <edge id="587" source="ca" target="http://www.hrw.org/news/2014/07/09/palestineisrael-indiscriminate-palestinian-rocket-attacks" />
-      <edge id="588" source="ca" target="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" />
-      <edge id="589" source="ca" target="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" />
-      <edge id="590" source="ca" target="http://www.israelhayom.com/site/newsletter_article.php?id=18987" />
-      <edge id="591" source="ca" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
-      <edge id="592" source="ca" target="http://www.jewishpress.com/news/breaking-news/rocket-sirens-in-tel-aviv-and-ben-gurion-airport/2014/07/13" />
-      <edge id="593" source="ca" target="http://www.jpost.com/Operation-Protective-Edge/Report-US-considering-grounding-flights-to-Israel-amid-rocket-threat-368492" />
-      <edge id="594" source="ca" target="http://www.lavanguardia.com/internacional/20140708/54411712094/suenan-las-alarmas-antiaereas-por-primera-vez-en-jerusalen.html" />
-      <edge id="595" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
-      <edge id="596" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" />
-      <edge id="597" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=716174" />
-      <edge id="598" source="ca" target="http://www.mcclatchydc.com/2014/07/23/234131/faa-bars-us-flights-to-israel.html" />
-      <edge id="599" source="ca" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
-      <edge id="600" source="ca" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
-      <edge id="601" source="ca" target="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" />
-      <edge id="602" source="ca" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
-      <edge id="603" source="ca" target="http://www.newsweek.com/israel-days-completing-tunnel-hunt-amid-un-condemnation-262257" />
-      <edge id="604" source="ca" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html" />
-      <edge id="605" source="ca" target="http://www.nytimes.com/2014/07/22/world/middleeast/us-advises-americans-to-put-off-travel-to-israel.html?_r=0" />
-      <edge id="606" source="ca" target="http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html?_r=0" />
-      <edge id="607" source="ca" target="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" />
-      <edge id="608" source="ca" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
-      <edge id="609" source="ca" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" />
-      <edge id="610" source="ca" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" />
-      <edge id="611" source="ca" target="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" />
-      <edge id="612" source="ca" target="http://www.richardsilverstein.com/2014/07/07/operation-mighty-cliff-gaza-invasion-begins/" />
-      <edge id="613" source="ca" target="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
-      <edge id="614" source="ca" target="http://www.thedalleschronicle.com/news/2014/apr/23/gaza-official-israeli-airstrike-wounds-3/" />
-      <edge id="615" source="ca" target="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" />
-      <edge id="616" source="ca" target="http://www.theguardian.com/world/2014/jul/11/ramadan-gaza-life-under-missile-fire" />
-      <edge id="617" source="ca" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
-      <edge id="618" source="ca" target="http://www.timesofisrael.com/as-gaza-death-tolls-climbs-press-increasingly-critical-of-israel" />
-      <edge id="619" source="ca" target="http://www.timesofisrael.com/as-israel-grapples-with-homegrown-killers-violence-continues" />
-      <edge id="620" source="ca" target="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" />
-      <edge id="621" source="ca" target="http://www.timesofisrael.com/gaza-war-seen-rather-differently-in-us-uk-newspapers" />
-      <edge id="622" source="ca" target="http://www.timesofisrael.com/name-protective-edge-doesnt-cut-it/" />
-      <edge id="623" source="ca" target="http://www.timesofisrael.com/netanyahu-hamas-behind-kidnapping-of-three-teenagers/#ixzz35Dg026iL" />
-      <edge id="624" source="ca" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
-      <edge id="625" source="ca" target="http://www.timesofisrael.com/suspects-arrested-in-killing-of-east-jerusalem-teen/" />
-      <edge id="626" source="ca" target="http://www.usnews.com/news/articles/2014/07/10/gaza-hospitals-ill-equipped-for-israeli-onslaught" />
-      <edge id="627" source="ca" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
-      <edge id="628" source="ca" target="http://www.washingtonpost.com/blogs/worldviews/wp/2014/07/09/roof-knocking-the-israeli-mjilitarys-tactic-of-phoning-palestinians-it-is-about-to-bomb/" />
-      <edge id="629" source="ca" target="http://www.washingtonpost.com/world/israel-hamas-show-no-signs-of-bowing-to-pressure-for-truce/2014/07/24/90213d90-1305-11e4-8936-26932bcfd6ed_story.html" />
-      <edge id="630" source="ca" target="http://www.washingtonpost.com/world/kerry-in-israel-to-push-for-cease-fire/2014/07/23/4d902146-123b-11e4-98ee-daea85133bc9_story.html" />
-      <edge id="631" source="ca" target="http://www.washingtonpost.com/world/middle_east/after-a-week-of-fighting-between-israel-and-hamas-talk-turns-to-diplomacy/2014/07/14/c1bf9f84-0536-4dc5-93b7-cc51ba3e4aa3_story.html" />
-      <edge id="632" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4532764,00.html" />
-      <edge id="633" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4551863,00.html" />
-      <edge id="634" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4552306,00.html" />
-      <edge id="635" source="ca" target="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" />
-      <edge id="636" source="ca" target="https://www.bbc.com/news/world-middle-east-13331522" />
-      <edge id="637" source="ca" target="https://www.youtube.com/watch?v=TydoLmhMaDo" />
-      <edge id="638" source="cs" target="http://america.aljazeera.com/articles/2014/7/7/israel-launched-deadlyairstrikesingaza.html" />
-      <edge id="639" source="cs" target="http://d-nb.info/gnd/1059754894" />
-      <edge id="640" source="cs" target="http://english.al-akhbar.com/content/palestinian-boy-goes-missing-jerusalem-report" />
-      <edge id="641" source="cs" target="http://id.loc.gov/authorities/names/sh2016001997" />
-      <edge id="642" source="cs" target="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" />
-      <edge id="643" source="cs" target="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" />
-      <edge id="644" source="cs" target="http://www.al-monitor.com/pulse/originals/2014/06/hamas-israel-confrontation-hebron-kidnapping.html#" />
-      <edge id="645" source="cs" target="http://www.bbc.com/news/world-middle-east-28156268" />
-      <edge id="646" source="cs" target="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" />
-      <edge id="647" source="cs" target="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" />
-      <edge id="648" source="cs" target="http://www.haaretz.com/news/diplomacy-defense/1.603472" />
-      <edge id="649" source="cs" target="http://www.idfblog.com/blog/2014/07/08/breaking-idf-commences-operation-protective-edge-against-hamas/" />
-      <edge id="650" source="cs" target="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" />
-      <edge id="651" source="cs" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
-      <edge id="652" source="cs" target="http://www.jpost.com/Operation-Brothers-Keeper/In-extended-version-of-kidnapped-teens-call-to-police-murderers-heard-singing-in-celebration-361270" />
-      <edge id="653" source="cs" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
-      <edge id="654" source="cs" target="http://www.jpost.com/Operation-Protective-Edge/Israel-calls-up-additional-8000-reservists-for-Gaza-operation-363053" />
-      <edge id="655" source="cs" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
-      <edge id="656" source="cs" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
-      <edge id="657" source="cs" target="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" />
-      <edge id="658" source="cs" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
-      <edge id="659" source="cs" target="http://www.nytimes.com/2014/07/07/world/middleeast/israel-palestinians-muhammad-abu-khdeir.html?_r=0" />
-      <edge id="660" source="cs" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=1" />
-      <edge id="661" source="cs" target="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" />
-      <edge id="662" source="cs" target="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" />
-      <edge id="663" source="cs" target="http://www.slate.com/blogs/the_slatest/2014/07/07/israeli_kidnapping_confession_palestinian_teenager_allegedly_burned_alive.html" />
-      <edge id="664" source="cs" target="http://www.theguardian.com/world/2014/jul/08/operation-protective-edge-israel-bombs-gaza-in-retaliation-for-rockets" />
-      <edge id="665" source="cs" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive/" />
-      <edge id="666" source="cs" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
-      <edge id="667" source="cs" target="http://www.worldcat.org/identities/lccn-sh2016001997" />
+      <edge id="558" source="ca" target="http://www.bloomberg.com/news/2014-07-08/israel-strikes-gaza-by-air-and-sea-in-operation-to-halt-rockets.html" />
+      <edge id="559" source="ca" target="http://www.bostonglobe.com/news/world/2014/07/23/european-carriers-suspend-more-tel-aviv-flights/WvGEP81gF6qyOtGLZ5HCyM/story.html?p1=Article_Related" />
+      <edge id="560" source="ca" target="http://www.cbsnews.com/news/israel-ids-2-main-suspects-in-teens-disappearance/" />
+      <edge id="561" source="ca" target="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
+      <edge id="562" source="ca" target="http://edition.cnn.com/2014/07/22/travel/israel-flights-suspended/index.html?hpt=hp_t1" />
+      <edge id="563" source="ca" target="http://www.edition.cnn.com/2014/07/31/world/meast/israel-gaza-region/?c=&amp;page=3" />
+      <edge id="564" source="ca" target="http://www.cnn.com/2014/07/21/world/meast/mideast-crisis/" />
+      <edge id="565" source="ca" target="http://www.csmonitor.com/USA/Society/2014/0715/US-media-coverage-of-Gaza-is-deeply-flawed-both-sides-in-conflict-say" />
+      <edge id="566" source="ca" target="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" />
+      <edge id="567" source="ca" target="http://www.digitaljournal.com/news/world/new-israeli-air-strikes-bring-gaza-toll-to-200-medics/article/390129" />
+      <edge id="568" source="ca" target="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" />
+      <edge id="569" source="ca" target="http://internacional.elpais.com/internacional/2014/07/20/actualidad/1405837216_547228.html" />
+      <edge id="570" source="ca" target="http://forward.com/articles/201764/how-politics-and-lies-triggered-an-unintended-war" />
+      <edge id="571" source="ca" target="http://www.foxnews.com/world/2014/07/26/humanitarian-cease-fire-in-gaza-takes-effect/" />
+      <edge id="572" source="ca" target="http://abcnews.go.com/International/wireStory/israeli-mood-turns-dark-mounting-casualties-24652707" />
+      <edge id="573" source="ca" target="http://www.abcnews.go.com/International/wireStory/hamas-tunnel-threat-center-war-israel-24707344" />
+      <edge id="574" source="ca" target="http://www.haaretz.com/mobile/.premium-1.609595" />
+      <edge id="575" source="ca" target="http://www.haaretz.com/news/diplomacy-defense/israel-gaza-conflict-2014/1.606655" />
+      <edge id="576" source="ca" target="http://www.haaretz.com/polopoly_fs/1.607580.1406536924!/image/2320157484.jpg" />
+      <edge id="577" source="ca" target="http://www.israelhayom.com/site/newsletter_article.php?id=18987" />
+      <edge id="578" source="ca" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
+      <edge id="579" source="ca" target="http://www.jewishpress.com/news/breaking-news/rocket-sirens-in-tel-aviv-and-ben-gurion-airport/2014/07/13" />
+      <edge id="580" source="ca" target="http://www.jpost.com/Operation-Protective-Edge/Report-US-considering-grounding-flights-to-Israel-amid-rocket-threat-368492" />
+      <edge id="581" source="ca" target="http://www.lavanguardia.com/internacional/20140708/54411712094/suenan-las-alarmas-antiaereas-por-primera-vez-en-jerusalen.html" />
+      <edge id="582" source="ca" target="http://www.mcclatchydc.com/2014/07/23/234131/faa-bars-us-flights-to-israel.html" />
+      <edge id="583" source="ca" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
+      <edge id="584" source="ca" target="http://www.newsweek.com/israel-days-completing-tunnel-hunt-amid-un-condemnation-262257" />
+      <edge id="585" source="ca" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html" />
+      <edge id="586" source="ca" target="http://www.nytimes.com/2014/07/22/world/middleeast/us-advises-americans-to-put-off-travel-to-israel.html?_r=0" />
+      <edge id="587" source="ca" target="http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html?_r=0" />
+      <edge id="588" source="ca" target="http://www.richardsilverstein.com/2014/07/07/operation-mighty-cliff-gaza-invasion-begins/" />
+      <edge id="589" source="ca" target="http://www.thedalleschronicle.com/news/2014/apr/23/gaza-official-israeli-airstrike-wounds-3/" />
+      <edge id="590" source="ca" target="http://www.theguardian.com/world/2014/jul/11/ramadan-gaza-life-under-missile-fire" />
+      <edge id="591" source="ca" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
+      <edge id="592" source="ca" target="http://www.theguardian.com/world/2014/jun/02/palestinian-unity-government-sworn-in-fatah-hamas" />
+      <edge id="593" source="ca" target="http://www.timesofisrael.com/as-gaza-death-tolls-climbs-press-increasingly-critical-of-israel" />
+      <edge id="594" source="ca" target="http://www.timesofisrael.com/as-israel-grapples-with-homegrown-killers-violence-continues" />
+      <edge id="595" source="ca" target="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" />
+      <edge id="596" source="ca" target="http://www.timesofisrael.com/gaza-war-seen-rather-differently-in-us-uk-newspapers" />
+      <edge id="597" source="ca" target="http://www.timesofisrael.com/name-protective-edge-doesnt-cut-it/" />
+      <edge id="598" source="ca" target="http://www.timesofisrael.com/netanyahu-hamas-behind-kidnapping-of-three-teenagers/#ixzz35Dg026iL" />
+      <edge id="599" source="ca" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
+      <edge id="600" source="ca" target="http://www.timesofisrael.com/suspects-arrested-in-killing-of-east-jerusalem-teen/" />
+      <edge id="601" source="ca" target="http://www.usnews.com/news/articles/2014/07/10/gaza-hospitals-ill-equipped-for-israeli-onslaught" />
+      <edge id="602" source="ca" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
+      <edge id="603" source="ca" target="http://www.washingtonpost.com/blogs/worldviews/wp/2014/07/09/roof-knocking-the-israeli-mjilitarys-tactic-of-phoning-palestinians-it-is-about-to-bomb/" />
+      <edge id="604" source="ca" target="http://www.washingtonpost.com/world/israel-hamas-show-no-signs-of-bowing-to-pressure-for-truce/2014/07/24/90213d90-1305-11e4-8936-26932bcfd6ed_story.html" />
+      <edge id="605" source="ca" target="http://www.washingtonpost.com/world/kerry-in-israel-to-push-for-cease-fire/2014/07/23/4d902146-123b-11e4-98ee-daea85133bc9_story.html" />
+      <edge id="606" source="ca" target="http://www.washingtonpost.com/world/middle_east/after-a-week-of-fighting-between-israel-and-hamas-talk-turns-to-diplomacy/2014/07/14/c1bf9f84-0536-4dc5-93b7-cc51ba3e4aa3_story.html" />
+      <edge id="607" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4532764,00.html" />
+      <edge id="608" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4551863,00.html" />
+      <edge id="609" source="ca" target="http://www.ynetnews.com/articles/0,7340,L-4552306,00.html" />
+      <edge id="610" source="ca" target="http://ad.easa.europa.eu/ad/2014-22R1" />
+      <edge id="611" source="ca" target="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=16734" />
+      <edge id="612" source="ca" target="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
+      <edge id="613" source="ca" target="http://9tv.co.il/news/2014/07/22/181023.html" />
+      <edge id="614" source="ca" target="http://www.presstv.ir/detail/2014/07/20/372127/israeli-soldier-captured-in-gaza-hamas" />
+      <edge id="615" source="ca" target="http://www.dailystar.com.lb/News/Middle-East/2014/Jul-30/265480-gaza-toll-passes-1300-on-day-23-of-israeli-assault.ashx#axzz38xbnTjPC" />
+      <edge id="616" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx%3FID=713579" />
+      <edge id="617" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
+      <edge id="618" source="ca" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=716174" />
+      <edge id="619" source="ca" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
+      <edge id="620" source="ca" target="http://bigstory.ap.org/article/israel-says-its-downed-drone-along-southern-coast" />
+      <edge id="621" source="ca" target="http://www.btselem.org/gaza_strip/20140713_palestinians_killed_in_illegal_attacks_on_houses" />
+      <edge id="622" source="ca" target="http://www.hrw.org/news/2014/07/09/palestineisrael-indiscriminate-palestinian-rocket-attacks" />
+      <edge id="623" source="ca" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
+      <edge id="624" source="ca" target="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
+      <edge id="625" source="ca" target="http://www.ochaopt.org/documents/humanitarian_Snapshot_23July2014_oPt_V1.pdf" />
+      <edge id="626" source="ca" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
+      <edge id="627" source="ca" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_24_07_2014.pdf.pdf" />
+      <edge id="628" source="ca" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10544:most-violent-daye-since-the-beginning-of-the-israeli-offensive-on-gaza-on-the-22nd-day-of-the-israeli-offensive-extremely-violent-attacks-on-palestinian-civilians-complete-families-annihilated-mosques-media-offices-and-gaza-power-plant-destroyed-inc&amp;catid=36:pchrpressreleases&amp;Itemid=194" />
+      <edge id="629" source="ca" target="//tools.wmflabs.org/geohack/geohack.php?pagename=Operaci%C3%B3_Marge_Protector&amp;language=ca&amp;params=30_40_N_34_50_E" />
+      <edge id="630" source="ca" target="http://www.aa.com.tr/en/gaza/365969--110-israeli-troops-killed-in-gaza-war-hamas" />
+      <edge id="631" source="ca" target="http://www.independent.co.uk/news/world/middle-east/if-you-recognise-palestinian-government-you-support-terrorism-benjamin-netanyahu-tells-world-leaders-9468161.html?origin=internalSearch" />
+      <edge id="632" source="ca" target="http://www.independent.co.uk/news/world/middle-east/middle-east-peace-deal-between-palestinian-political-groups-fatah-and-hamas-casts-doubt-on-faltering-talks-with-israel-9278684.html?origin=internalSearch" />
+      <edge id="633" source="ca" target="http://www.muslimnews.co.uk/news/palestine/palestine-gaza-death-toll-hits-1361-day-23-israeli-indiscriminate-bombings/" />
+      <edge id="634" source="ca" target="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
+      <edge id="635" source="ca" target="https://www.bbc.com/news/world-middle-east-13331522" />
+      <edge id="636" source="ca" target="https://www.youtube.com/watch?v=TydoLmhMaDo" />
+      <edge id="637" source="ca" target="https://commons.wikimedia.org/wiki/P%C3%A0gina_principal?uselang=ca" />
+      <edge id="638" source="cs" target="http://english.al-akhbar.com/content/palestinian-boy-goes-missing-jerusalem-report" />
+      <edge id="639" source="cs" target="http://www.al-monitor.com/pulse/originals/2014/06/hamas-israel-confrontation-hebron-kidnapping.html#" />
+      <edge id="640" source="cs" target="http://america.aljazeera.com/articles/2014/7/7/israel-launched-deadlyairstrikesingaza.html" />
+      <edge id="641" source="cs" target="http://www.bbc.com/news/world-middle-east-28156268" />
+      <edge id="642" source="cs" target="http://www.haaretz.com/news/diplomacy-defense/1.603472" />
+      <edge id="643" source="cs" target="http://www.idfblog.com/blog/2014/07/08/breaking-idf-commences-operation-protective-edge-against-hamas/" />
+      <edge id="644" source="cs" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
+      <edge id="645" source="cs" target="http://www.jpost.com/Operation-Brothers-Keeper/In-extended-version-of-kidnapped-teens-call-to-police-murderers-heard-singing-in-celebration-361270" />
+      <edge id="646" source="cs" target="http://www.jpost.com/Operation-Protective-Edge/Israel-calls-up-additional-8000-reservists-for-Gaza-operation-363053" />
+      <edge id="647" source="cs" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
+      <edge id="648" source="cs" target="http://news.nationalpost.com/2014/07/04/mohammed-abu-khdeirs-funeral-draws-thousands-of-palestinians-as-video-surfaces-of-the-teenagers-abduction-by-alleged-israelis/" />
+      <edge id="649" source="cs" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
+      <edge id="650" source="cs" target="http://www.nytimes.com/2014/07/07/world/middleeast/israel-palestinians-muhammad-abu-khdeir.html?_r=0" />
+      <edge id="651" source="cs" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=1" />
+      <edge id="652" source="cs" target="http://www.slate.com/blogs/the_slatest/2014/07/07/israeli_kidnapping_confession_palestinian_teenager_allegedly_burned_alive.html" />
+      <edge id="653" source="cs" target="http://www.theguardian.com/world/2014/jul/08/operation-protective-edge-israel-bombs-gaza-in-retaliation-for-rockets" />
+      <edge id="654" source="cs" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive/" />
+      <edge id="655" source="cs" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
+      <edge id="656" source="cs" target="http://online.wsj.com/articles/israeli-police-arrest-suspects-in-investigation-into-death-of-teen-1404651616" />
+      <edge id="657" source="cs" target="http://www.ceskatelevize.cz/ct24/svet/283851-utok-z-gazy-usmrtil-ctyrleteho-izraelskeho-chlapce/" />
+      <edge id="658" source="cs" target="http://www.mzv.cz/jnp/cz/udalosti_a_media/prohlaseni_a_stanoviska/x2014_07_29_prohlaseni_mzv_k_poslednimu_vyvoji_situace_v_gaze.html" />
+      <edge id="659" source="cs" target="http://id.loc.gov/authorities/names/sh2016001997" />
+      <edge id="660" source="cs" target="http://d-nb.info/gnd/1059754894" />
+      <edge id="661" source="cs" target="http://www.dailystar.com.lb/News/Lebanon-News/2014/Jul-12/263663-rockets-fired-on-israel-from-s-lebanon.ashx#axzz37RWF2DWX" />
+      <edge id="662" source="cs" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
+      <edge id="663" source="cs" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
+      <edge id="664" source="cs" target="http://www.salemnews.net/page/content.detail/id/546315/Israel-approves-call-up-of-18-000-more-reservists.html?isap=1&amp;nav=5027" />
+      <edge id="665" source="cs" target="http://www.palwatch.org/main.aspx?fi=157&amp;doc_id=11956" />
+      <edge id="666" source="cs" target="http://www.worldcat.org/identities/lccn-sh2016001997" />
+      <edge id="667" source="cs" target="http://www.independent.co.uk/news/world/middle-east/shelling-of-gaza-goes-on-as-egypt-brokers-truce-9585708.html" />
       <edge id="668" source="cs" target="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict?oldid=622404438" />
       <edge id="669" source="cy" target="http://972mag.com/five-israeli-soldiers-killed-in-gaza-palestinian-death-toll-hits-1088/94571/" />
       <edge id="670" source="cy" target="http://america.aljazeera.com/articles/2014/7/9/gaza-israel-war.html" />
@@ -5096,67 +5096,67 @@
       <edge id="1001" source="de" target="https://www.youtube.com/watch?v=KNOyBMBPvY0" />
       <edge id="1002" source="diq" target="http://www.economist.com/news/middle-east-and-africa/21607895-hamas-wants-two-big-concessions-it-may-not-get-them-why-hamas-fires-those-rockets" />
       <edge id="1003" source="diq" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=1" />
-      <edge id="1004" source="el" target="http://edition.cnn.com/2014/07/29/world/meast/mideast-crisis/index.html?hpt=hp_inthenews" />
-      <edge id="1005" source="el" target="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" />
-      <edge id="1006" source="el" target="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" />
-      <edge id="1007" source="el" target="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" />
-      <edge id="1008" source="el" target="http://m.aljazeera.com/story/2014730233016747143" />
-      <edge id="1009" source="el" target="http://mignatiou.com/2014/06/anigi-i-porta-tis-kolasis-nekri-i-3-israilini-mathites/" />
-      <edge id="1010" source="el" target="http://mignatiou.com/2014/07/vrochi-me-rouketes-tis-chamas-sto-israil/" />
-      <edge id="1011" source="el" target="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" />
-      <edge id="1012" source="el" target="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" />
-      <edge id="1013" source="el" target="http://news.in.gr/world/article/?aid=1231331159" />
-      <edge id="1014" source="el" target="http://news.in.gr/world/article/?aid=1231333286" />
-      <edge id="1015" source="el" target="http://news.in.gr/world/article/?aid=1231334493" />
-      <edge id="1016" source="el" target="http://news.in.gr/world/article/?aid=1231338110" />
-      <edge id="1017" source="el" target="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
-      <edge id="1018" source="el" target="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
-      <edge id="1019" source="el" target="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
-      <edge id="1020" source="el" target="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" />
-      <edge id="1021" source="el" target="http://time.com/3182848/israel-gaza-ceasefire-abbas-netanyahu/" />
-      <edge id="1022" source="el" target="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" />
-      <edge id="1023" source="el" target="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" />
+      <edge id="1004" source="el" target="http://www.algemeiner.com/2014/07/07/hamas-issues-demands-for-gaza-ceasefire-as-israel-prepares-for-possible-escalation/" />
+      <edge id="1005" source="el" target="http://m.aljazeera.com/story/2014730233016747143" />
+      <edge id="1006" source="el" target="http://edition.cnn.com/2014/07/29/world/meast/mideast-crisis/index.html?hpt=hp_inthenews" />
+      <edge id="1007" source="el" target="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" />
+      <edge id="1008" source="el" target="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
+      <edge id="1009" source="el" target="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" />
+      <edge id="1010" source="el" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
+      <edge id="1011" source="el" target="http://mignatiou.com/2014/06/anigi-i-porta-tis-kolasis-nekri-i-3-israilini-mathites/" />
+      <edge id="1012" source="el" target="http://mignatiou.com/2014/07/vrochi-me-rouketes-tis-chamas-sto-israil/" />
+      <edge id="1013" source="el" target="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
+      <edge id="1014" source="el" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
+      <edge id="1015" source="el" target="http://time.com/3182848/israel-gaza-ceasefire-abbas-netanyahu/" />
+      <edge id="1016" source="el" target="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" />
+      <edge id="1017" source="el" target="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" />
+      <edge id="1018" source="el" target="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
+      <edge id="1019" source="el" target="http://intifadagr.wordpress.com/2014/07/01/%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B2%CF%81%CE%AD%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CE%BF%CE%B9-3-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CE%AF-%CE%AD%CF%86%CE%B7%CE%B2%CE%BF%CE%B9/" />
+      <edge id="1020" source="el" target="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" />
+      <edge id="1021" source="el" target="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" />
+      <edge id="1022" source="el" target="http://ritsmascorner.eu/content/%CE%B4%CE%BF%CE%BB%CE%BF%CF%86%CE%BF%CE%BD%CE%AF%CE%B1-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%85-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CF%85-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%BF%CF%85%CF%82-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CE%B9%CF%83%CF%81%CE%B1%CE%B7%CE%BB%CE%B9%CE%BD%CE%BF%CF%8D%CF%82-%CE%B5%CF%86%CE%AE%CE%B2%CE%BF%CF%85%CF%82" />
+      <edge id="1023" source="el" target="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" />
       <edge id="1024" source="el" target="http://www.avgi.gr/article/3205013/agria-dolofonia-17xronou-palaistiniou-se-antipoina-gia-tous-3-efibous" />
       <edge id="1025" source="el" target="http://www.capital.gr/news.asp?id=2058862" />
       <edge id="1026" source="el" target="http://www.capital.gr/news.asp?id=2060321" />
-      <edge id="1027" source="el" target="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" />
-      <edge id="1028" source="el" target="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" />
-      <edge id="1029" source="el" target="http://www.eu-un.europa.eu/articles/en/article_15300_en.htm" />
-      <edge id="1030" source="el" target="http://www.jpost.com/Arab-Israeli-Conflict/PA-official-Hamas-should-admit-defeat-372676" />
-      <edge id="1031" source="el" target="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
-      <edge id="1032" source="el" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
-      <edge id="1033" source="el" target="http://www.kathimerini.gr/775163/article/epikairothta/kosmos/me-antekdikhsh-apeilei-h-xamas" />
-      <edge id="1034" source="el" target="http://www.kathimerini.gr/775688/article/epikairothta/kosmos/dekades-nekroi-sth-gaza-apo-toys-vomvardismoys" />
-      <edge id="1035" source="el" target="http://www.kathimerini.gr/777972/article/epikairothta/kosmos/o-netaniaxoy-vlepei-paratetameno-polemo" />
-      <edge id="1036" source="el" target="http://www.kathimerini.gr/778389/article/epikairothta/kosmos/ey8ynes-sth-xamas-epirriptei-to-israhl-gia-ton-vomvardismo-toy-sxoleioy" />
-      <edge id="1037" source="el" target="http://www.katohika.gr/2014/07/vomvardismos-nosokomeiou-sto-kentro-tis-gazas.html" />
-      <edge id="1038" source="el" target="http://www.lefigaro.fr/flash-actu/2014/07/30/97001-20140730FILWWW00331-gaza-l-attaque-injustifiable-d-une-ecole-onu.php" />
-      <edge id="1039" source="el" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
-      <edge id="1040" source="el" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
-      <edge id="1041" source="el" target="http://www.mfa.gr/epikairotita/proto-thema/delose-tou-antiproedrou-tes-kuberneses-kai-upourgou-exoterikon-eu-benizelou-meta-to-sumboulio-exoterikon-upotheseon-tes-ee-skhetika-me-ten-katastase-ste-mese-anatole-bruxelles-22072014.html" />
-      <edge id="1042" source="el" target="http://www.naftemporiki.gr/story/835916/gaza-ekexeiria-kai-diapragmateuseis-proteinei-o-mpan-ki-moun" />
-      <edge id="1043" source="el" target="http://www.naftemporiki.gr/story/836051/sunedriazei-to-sumboulio-anthropinon-dikaiomaton-tou-oie-gia-ti-gaza" />
-      <edge id="1044" source="el" target="http://www.newsbomb.gr/diethnh/story/470748/israil-kamia-ekeheiria-me-ti-hamas" />
-      <edge id="1045" source="el" target="http://www.pentapostagma.gr/2014/07/21-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CE%B9-%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CF%87%CE%B5%CF%81%CF%83%CE%B1%CE%AF%CE%B1-%CE%B5%CF%80.html#.U899VXTPJok" />
-      <edge id="1046" source="el" target="http://www.protothema.gr/world/article/398553/netaniahou-den-tha-stamatisoume-mehri-na-katastrepsoume-ola-ta-tounel-tis-hamas/" />
-      <edge id="1047" source="el" target="http://www.skai.gr/news/world/article/261147/sti-hevrona-vrethikan-dolofonimenoi-treis-israilinoi-efivoi-netaniahou-i-hamas-tha-to-plirosei/" />
-      <edge id="1048" source="el" target="http://www.skai.gr/news/world/article/261574/epta-mahites-tis-hamas-nekroi-apo-israilines-epidromes-meta-tis-sullipseis-ethnikiston/" />
-      <edge id="1049" source="el" target="http://www.skai.gr/news/world/article/261720/israil-i-israilini-aeroporia-pragmatopoiise-ti-nuhta-160-epidromes-sti-gaza-/" />
-      <edge id="1050" source="el" target="http://www.skai.gr/news/world/article/262957/netaniahou-to-israil-na-einai-etoimo-gia-paratetameni-dienexi-sti-gaza/" />
-      <edge id="1051" source="el" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
-      <edge id="1052" source="el" target="http://www.thepressproject.gr/article/66263/To-Israil-skotonei-paidia-ston-upno-tous" />
-      <edge id="1053" source="el" target="http://www.timesofisrael.com/abbas-derides-hamas-talk-of-victory-in-war-against-israel/" />
-      <edge id="1054" source="el" target="http://www.timesofisrael.com/moderate-fatah-joins-hamas-and-islamic-jihad-in-missile-launches" />
-      <edge id="1055" source="el" target="http://www.tribune.gr/world/news/article/49702/machmount-ampas-israil-diapratti-genoktonia.html" />
-      <edge id="1056" source="el" target="http://www.tsantiri.gr/kosmos/tumpana_polemou_se_palaistini_-_israil/" />
-      <edge id="1057" source="el" target="http://www.unitar.org/unosat/node/44/2041?utm_source=unosat-unitar&amp;utm_medium=rss&amp;utm_campaign=maps" />
-      <edge id="1058" source="el" target="http://www.unrwa.org/newsroom/official-statements/unrwa-strongly-condemns-israeli-shelling-its-school-gaza-serious" />
-      <edge id="1059" source="el" target="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
-      <edge id="1060" source="el" target="http://www.ynetnews.com/articles/0,7340,L-4539962,00.html" />
-      <edge id="1061" source="el" target="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" />
-      <edge id="1062" source="el" target="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" />
-      <edge id="1063" source="el" target="https://www.eleftheriaonline.gr/ellada-kosmos/item/42059-netaniaxou-den-tha-stamatisoume-mexri-na-katastrepsoume-ola-ta-toynel-tis-xamas" />
-      <edge id="1064" source="el" target="https://www.hol.gr/eidiseis-kosmos/article/53621/sfagi-sti-gaza-apo-sfyrokopima-toy-israil" />
+      <edge id="1027" source="el" target="http://www.ethnos.gr/article.asp?catid=22769&amp;subid=2&amp;pubid=64044440" />
+      <edge id="1028" source="el" target="http://news.in.gr/world/article/?aid=1231331159" />
+      <edge id="1029" source="el" target="http://news.in.gr/world/article/?aid=1231333286" />
+      <edge id="1030" source="el" target="http://news.in.gr/world/article/?aid=1231334493" />
+      <edge id="1031" source="el" target="http://news.in.gr/world/article/?aid=1231338110" />
+      <edge id="1032" source="el" target="http://www.kathimerini.gr/775163/article/epikairothta/kosmos/me-antekdikhsh-apeilei-h-xamas" />
+      <edge id="1033" source="el" target="http://www.kathimerini.gr/775688/article/epikairothta/kosmos/dekades-nekroi-sth-gaza-apo-toys-vomvardismoys" />
+      <edge id="1034" source="el" target="http://www.kathimerini.gr/777972/article/epikairothta/kosmos/o-netaniaxoy-vlepei-paratetameno-polemo" />
+      <edge id="1035" source="el" target="http://www.kathimerini.gr/778389/article/epikairothta/kosmos/ey8ynes-sth-xamas-epirriptei-to-israhl-gia-ton-vomvardismo-toy-sxoleioy" />
+      <edge id="1036" source="el" target="http://www.katohika.gr/2014/07/vomvardismos-nosokomeiou-sto-kentro-tis-gazas.html" />
+      <edge id="1037" source="el" target="http://left.gr/news/tha-zitithei-ereyna-gia-tis-paraviaseis-apo-israil-symvoylio-anthropinon-dikaiomaton-toy-oie" />
+      <edge id="1038" source="el" target="http://www.mfa.gr/epikairotita/proto-thema/delose-tou-antiproedrou-tes-kuberneses-kai-upourgou-exoterikon-eu-benizelou-meta-to-sumboulio-exoterikon-upotheseon-tes-ee-skhetika-me-ten-katastase-ste-mese-anatole-bruxelles-22072014.html" />
+      <edge id="1039" source="el" target="http://www.naftemporiki.gr/story/835916/gaza-ekexeiria-kai-diapragmateuseis-proteinei-o-mpan-ki-moun" />
+      <edge id="1040" source="el" target="http://www.naftemporiki.gr/story/836051/sunedriazei-to-sumboulio-anthropinon-dikaiomaton-tou-oie-gia-ti-gaza" />
+      <edge id="1041" source="el" target="http://newpost.gr/post/368129/ampas-to-israhl-diaprattei-genoktonia" />
+      <edge id="1042" source="el" target="http://www.newsbomb.gr/diethnh/story/470748/israil-kamia-ekeheiria-me-ti-hamas" />
+      <edge id="1043" source="el" target="http://www.pentapostagma.gr/2014/07/21-%CF%80%CE%B1%CE%BB%CE%B1%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B9%CE%BF%CE%B9-%CE%BD%CE%B5%CE%BA%CF%81%CE%BF%CE%AF-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7-%CF%87%CE%B5%CF%81%CF%83%CE%B1%CE%AF%CE%B1-%CE%B5%CF%80.html#.U899VXTPJok" />
+      <edge id="1044" source="el" target="http://www.protothema.gr/world/article/398553/netaniahou-den-tha-stamatisoume-mehri-na-katastrepsoume-ola-ta-tounel-tis-hamas/" />
+      <edge id="1045" source="el" target="http://www.skai.gr/news/world/article/261147/sti-hevrona-vrethikan-dolofonimenoi-treis-israilinoi-efivoi-netaniahou-i-hamas-tha-to-plirosei/" />
+      <edge id="1046" source="el" target="http://www.skai.gr/news/world/article/261574/epta-mahites-tis-hamas-nekroi-apo-israilines-epidromes-meta-tis-sullipseis-ethnikiston/" />
+      <edge id="1047" source="el" target="http://www.skai.gr/news/world/article/261720/israil-i-israilini-aeroporia-pragmatopoiise-ti-nuhta-160-epidromes-sti-gaza-/" />
+      <edge id="1048" source="el" target="http://www.skai.gr/news/world/article/262957/netaniahou-to-israil-na-einai-etoimo-gia-paratetameni-dienexi-sti-gaza/" />
+      <edge id="1049" source="el" target="http://www.thepressproject.gr/article/66263/To-Israil-skotonei-paidia-ston-upno-tous" />
+      <edge id="1050" source="el" target="http://www.tribune.gr/world/news/article/49702/machmount-ampas-israil-diapratti-genoktonia.html" />
+      <edge id="1051" source="el" target="http://www.tsantiri.gr/kosmos/tumpana_polemou_se_palaistini_-_israil/" />
+      <edge id="1052" source="el" target="http://tvxs.gr/news/kosmos/epanefodiazoyn-israil-oi-ipa" />
+      <edge id="1053" source="el" target="http://www.zougla.gr/kosmos/article/vinteo-sok-me-ti-dolofonia-dio-efivon-palestinion-sto-israil" />
+      <edge id="1054" source="el" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
+      <edge id="1055" source="el" target="http://mondoweiss.net/2014/07/killed-turning-onslaught.html" />
+      <edge id="1056" source="el" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
+      <edge id="1057" source="el" target="http://ochaopt.org/documents/ocha_opt_sitrep_27_07_2014.pdf" />
+      <edge id="1058" source="el" target="http://www.unitar.org/unosat/node/44/2041?utm_source=unosat-unitar&amp;utm_medium=rss&amp;utm_campaign=maps" />
+      <edge id="1059" source="el" target="http://www.unrwa.org/newsroom/official-statements/unrwa-strongly-condemns-israeli-shelling-its-school-gaza-serious" />
+      <edge id="1060" source="el" target="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
+      <edge id="1061" source="el" target="http://www.dailymail.co.uk/news/article-2737764/Palestinian-leader-say-Hamas-caused-prolonged-war.html" />
+      <edge id="1062" source="el" target="https://www.eleftheriaonline.gr/ellada-kosmos/item/42059-netaniaxou-den-tha-stamatisoume-mexri-na-katastrepsoume-ola-ta-toynel-tis-xamas" />
+      <edge id="1063" source="el" target="https://www.hol.gr/eidiseis-kosmos/article/53621/sfagi-sti-gaza-apo-sfyrokopima-toy-israil" />
+      <edge id="1064" source="el" target="https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict" />
       <edge id="1065" source="en" target="//www.jpost.com/Operation-Protective-Edge/Journalists-threatened-by-Hamas-for-reporting-use-of-human-shields-369619" />
       <edge id="1066" source="en" target="http://972mag.com/palestinian-teen-i-was-used-as-a-human-shield-in-gaza/95800" />
       <edge id="1067" source="en" target="http://972mag.com/the-unfolding-lie-of-operation-protective-edge/93605" />
@@ -8327,76 +8327,76 @@
       <edge id="4232" source="nl" target="https://secure.avaaz.org/en/israel_palestine_this_is_how_it_ends_3b/?bpdQSab&amp;v=43653" />
       <edge id="4233" source="nl" target="https://www.fidh.org/IMG/pdf/report_gaza_fidh_march_2015.pdf" />
       <edge id="4234" source="no" target="http://972mag.com/gaza-dispatch-why-the-destruction-in-beit-hanoun-is-different/95128/" />
-      <edge id="4235" source="no" target="http://www.aljazeera.com/indepth/opinion/2014/07/gaza-conundrum-invade-not-invade-20147118252237390.html" />
-      <edge id="4236" source="no" target="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" />
-      <edge id="4237" source="no" target="http://aviationweek.com/defense/iron-dome-blunts-90-enemy-rockets" />
-      <edge id="4238" source="no" target="http://www.bbc.com/news/world-middle-east-28252155" />
-      <edge id="4239" source="no" target="http://www.bbc.com/news/world-middle-east-29086193" />
-      <edge id="4240" source="no" target="http://www.bostonglobe.com/opinion/2014/07/19/deprivation-gaza-strip/6HybezDQv6N0lGzsVWoB4N/story.html" />
-      <edge id="4241" source="no" target="http://www.economist.com/news/middle-east-and-africa/21599826-decline-hamas-may-result-new-wave-chaos-whos-charge" />
-      <edge id="4242" source="no" target="http://blogs.forward.com/jj-goldberg/201863/how-the-gaza-war-started-and-how-it-can-end/?" />
-      <edge id="4243" source="no" target="http://www.globalfirepower.com/country-military-strength-detail.asp?country_id=israel" />
-      <edge id="4244" source="no" target="http://abcnews.go.com/International/wireStory/hamas-kills-11-suspected-informers-israel-25080623" />
-      <edge id="4245" source="no" target="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" />
-      <edge id="4246" source="no" target="http://www.jpost.com/Diplomacy-and-Politics/EU-says-open-to-working-with-Palestinian-unity-government-355252" />
-      <edge id="4247" source="no" target="http://www.jpost.com/Pillar-of-Defense/Entire-Hamas-leadership-in-West-Bank-in-Israeli-custody-some-may-be-deported-359462" />
-      <edge id="4248" source="no" target="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" />
-      <edge id="4249" source="no" target="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" />
-      <edge id="4250" source="no" target="http://www.mobile.reuters.com/article/idUSKBN0G907R20140810?irpc=932" />
-      <edge id="4251" source="no" target="http://uk.reuters.com/article/2014/06/29/uk-israel-palestinians-idUKKBN0F40F220140629" />
-      <edge id="4252" source="no" target="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" />
-      <edge id="4253" source="no" target="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" />
-      <edge id="4254" source="no" target="http://www.technologyreview.com/view/528991/an-explanation-of-the-evidence-of-weaknesses-in-the-iron-dome-defense-system/" />
-      <edge id="4255" source="no" target="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" />
-      <edge id="4256" source="no" target="http://www.theguardian.com/world/2014/aug/11/damage-gaza-homes-israel-hamas-conflict" />
-      <edge id="4257" source="no" target="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" />
-      <edge id="4258" source="no" target="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" />
-      <edge id="4259" source="no" target="http://www.washingtonpost.com/blogs/worldviews/wp/2014/09/03/heres-what-really-happened-in-the-gaza-war-according-to-the-israelis/" />
-      <edge id="4260" source="no" target="http://www.washingtontimes.com/news/2014/aug/9/rockets-airstrikes-after-gaza-war-truce-collapses/?page=all" />
-      <edge id="4261" source="no" target="http://mfa.gov.il/MFA/ForeignPolicy/Terrorism/Pages/Sderot-factory-destroyed-by-rocket-fire-29-Jun-2014.aspx" />
-      <edge id="4262" source="no" target="http://www.terrorism-info.org.il/Data/articles/Art_20697/E_139_14_1709922468.pdf" />
-      <edge id="4263" source="no" target="http://www.middleeasteye.net/news/hamas-gains-credibility-fighting-force-analysts-say-371780262" />
-      <edge id="4264" source="no" target="http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" />
-      <edge id="4265" source="no" target="http://www.adressa.no/nyheter/utenriks/article9972305.ece" />
-      <edge id="4266" source="no" target="http://www.aftenposten.no/nyheter/uriks/Amnesty-med-harde-anklager-mot-Israel-7773348.html" />
-      <edge id="4267" source="no" target="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" />
-      <edge id="4268" source="no" target="http://www.aftenposten.no/nyheter/uriks/Israel-straffer-Palestina-for-ICC-soknad-7846537.html" />
-      <edge id="4269" source="no" target="http://www.dagbladet.no/2014/07/10/kultur/kronikk/meninger/israel/gaza/34280563/" />
-      <edge id="4270" source="no" target="http://www.dagbladet.no/2014/07/18/nyheter/utenriks/israel/gaza/hamas/34401434/" />
-      <edge id="4271" source="no" target="http://www.dagbladet.no/2014/08/04/nyheter/utenriks/israel/gaza/vapenhvile/34625947/" />
-      <edge id="4272" source="no" target="http://www.dagbladet.no/2014/08/06/nyheter/utenriks/gaza/34649434/" />
-      <edge id="4273" source="no" target="http://www.dagbladet.no/2014/08/07/nyheter/krig_og_konflikter/gaza/israel/hamas/34666058/" />
-      <edge id="4274" source="no" target="http://www.dagsavisen.no/verden/vond-bismak-for-israel/" />
-      <edge id="4275" source="no" target="http://www.fvn.no/nyheter/utenriks/utenriks_ntb/EU-slutter-seg-til-Israel-kritikk-etter-skattestraff-2737851.html" />
-      <edge id="4276" source="no" target="http://www.nrk.no/verden/_hjernen_-bak-drapet-pa-israelske-tenaringer-domt-1.12134593" />
-      <edge id="4277" source="no" target="http://www.nrk.no/verden/en-tredagers-vapenhvile-er-i-gang-1.11858508" />
-      <edge id="4278" source="no" target="http://www.nrk.no/verden/gaza-konflikt-kostet-55-milliarder-1.11911033" />
-      <edge id="4279" source="no" target="http://www.nrk.no/verden/holocaust-ofre-anklager-israel-1.11897079" />
-      <edge id="4280" source="no" target="http://www.nrk.no/verden/israel-stadfestar-vapenkvile-1.11899580" />
-      <edge id="4281" source="no" target="http://www.nrk.no/verden/israelske-hoyreekstreme-i-tel-aviv-1.11856465" />
-      <edge id="4282" source="no" target="http://www.nrk.no/verden/kraftverk-angrepet-i-gaza-1.11853840" />
-      <edge id="4283" source="no" target="http://www.nrk.no/verden/mest-oydeleggjande-krig-i-gaza-1.11875584" />
-      <edge id="4284" source="no" target="http://www.nrk.no/verden/palestinsk-icc-soknad-levert-1.12128954" />
-      <edge id="4285" source="no" target="http://www.vg.no/nyheter/meninger/midtoesten/israel-bryter-folkeretten/a/23246485/" />
-      <edge id="4286" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" />
-      <edge id="4287" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/dette-er-israels-maal/a/23259204/" />
-      <edge id="4288" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/israelsk-skoleangrep-fordoemmes-av-fn/a/23264306/" />
-      <edge id="4289" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/styrker-jerngrepet-om-gaza/a/23258866/" />
-      <edge id="4290" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" />
-      <edge id="4291" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/nye-israelske-angrep-mot-gazastripen/a/23248931/" />
-      <edge id="4292" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/vi-vil-ikke-gi-oss-foer-de-er-i-vaare-hender/a/23243869/" />
-      <edge id="4293" source="no" target="http://www.vg.no/nyheter/utenriks/palestina/ban-ki-moon-godtar-palestinsk-icc-soeknad/a/23369688/" />
-      <edge id="4294" source="no" target="http://www.btselem.org/press_releases/20140709_bobming_of_houses_in_gaza" />
-      <edge id="4295" source="no" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
-      <edge id="4296" source="no" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
-      <edge id="4297" source="no" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
-      <edge id="4298" source="no" target="http://www.moi.gov.ps/en/Details.aspx?nid=68571" />
-      <edge id="4299" source="no" target="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" />
-      <edge id="4300" source="no" target="http://www.lrb.co.uk/v36/n16/nathan-thrall/hamass-chances" />
-      <edge id="4301" source="no" target="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" />
-      <edge id="4302" source="no" target="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" />
-      <edge id="4303" source="no" target="https://id.loc.gov/authorities/sh2016001997" />
-      <edge id="4304" source="no" target="https://d-nb.info/gnd/1059754894" />
+      <edge id="4235" source="no" target="http://abcnews.go.com/International/wireStory/hamas-kills-11-suspected-informers-israel-25080623" />
+      <edge id="4236" source="no" target="http://aviationweek.com/defense/iron-dome-blunts-90-enemy-rockets" />
+      <edge id="4237" source="no" target="http://blogs.forward.com/jj-goldberg/201863/how-the-gaza-war-started-and-how-it-can-end/?" />
+      <edge id="4238" source="no" target="http://mfa.gov.il/MFA/ForeignPolicy/Terrorism/Pages/Sderot-factory-destroyed-by-rocket-fire-29-Jun-2014.aspx" />
+      <edge id="4239" source="no" target="http://uk.reuters.com/article/2014/06/29/uk-israel-palestinians-idUKKBN0F40F220140629" />
+      <edge id="4240" source="no" target="http://www.abcnyheter.no/nyheter/2014/08/04/israel-jobber-odelegge-okonomien-i-gaza" />
+      <edge id="4241" source="no" target="http://www.adressa.no/nyheter/utenriks/article9972305.ece" />
+      <edge id="4242" source="no" target="http://www.aftenposten.no/nyheter/uriks/Amnesty-med-harde-anklager-mot-Israel-7773348.html" />
+      <edge id="4243" source="no" target="http://www.aftenposten.no/nyheter/uriks/Israel-straffer-Palestina-for-ICC-soknad-7846537.html" />
+      <edge id="4244" source="no" target="http://www.aftenposten.no/nyheter/uriks/Hapet-deres-er-begravet-i-ruinhaugen-i-Gaza-7773180.html" />
+      <edge id="4245" source="no" target="http://www.aljazeera.com/indepth/opinion/2014/07/gaza-conundrum-invade-not-invade-20147118252237390.html" />
+      <edge id="4246" source="no" target="http://www.aljazeera.com/news/middleeast/2014/09/gaza-children-back-school-after-50-day-war-2014914144413583723.html" />
+      <edge id="4247" source="no" target="http://www.bbc.com/news/world-middle-east-28252155" />
+      <edge id="4248" source="no" target="http://www.bbc.com/news/world-middle-east-29086193" />
+      <edge id="4249" source="no" target="http://www.bostonglobe.com/opinion/2014/07/19/deprivation-gaza-strip/6HybezDQv6N0lGzsVWoB4N/story.html" />
+      <edge id="4250" source="no" target="http://www.btselem.org/press_releases/20140709_bobming_of_houses_in_gaza" />
+      <edge id="4251" source="no" target="http://www.dagbladet.no/2014/07/10/kultur/kronikk/meninger/israel/gaza/34280563/" />
+      <edge id="4252" source="no" target="http://www.dagbladet.no/2014/07/18/nyheter/utenriks/israel/gaza/hamas/34401434/" />
+      <edge id="4253" source="no" target="http://www.dagbladet.no/2014/08/04/nyheter/utenriks/israel/gaza/vapenhvile/34625947/" />
+      <edge id="4254" source="no" target="http://www.dagbladet.no/2014/08/06/nyheter/utenriks/gaza/34649434/" />
+      <edge id="4255" source="no" target="http://www.dagbladet.no/2014/08/07/nyheter/krig_og_konflikter/gaza/israel/hamas/34666058/" />
+      <edge id="4256" source="no" target="http://www.dagsavisen.no/verden/vond-bismak-for-israel/" />
+      <edge id="4257" source="no" target="http://www.economist.com/news/middle-east-and-africa/21599826-decline-hamas-may-result-new-wave-chaos-whos-charge" />
+      <edge id="4258" source="no" target="http://www.fvn.no/nyheter/utenriks/utenriks_ntb/EU-slutter-seg-til-Israel-kritikk-etter-skattestraff-2737851.html" />
+      <edge id="4259" source="no" target="http://www.globalfirepower.com/country-military-strength-detail.asp?country_id=israel" />
+      <edge id="4260" source="no" target="http://www.huffingtonpost.com/2014/07/18/cnn-diana-magnay-israel-gaza_n_5598866.html" />
+      <edge id="4261" source="no" target="http://www.independent.co.uk/voices/commentators/deborah-orr/deborah-orr-there-wouldnt-have-been-gaza-rockets-without-the-blockade-1229944.html" />
+      <edge id="4262" source="no" target="http://www.jpost.com/Diplomacy-and-Politics/EU-says-open-to-working-with-Palestinian-unity-government-355252" />
+      <edge id="4263" source="no" target="http://www.jpost.com/Pillar-of-Defense/Entire-Hamas-leadership-in-West-Bank-in-Israeli-custody-some-may-be-deported-359462" />
+      <edge id="4264" source="no" target="http://www.lrb.co.uk/v36/n16/nathan-thrall/hamass-chances" />
+      <edge id="4265" source="no" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
+      <edge id="4266" source="no" target="http://www.middleeasteye.net/news/hamas-gains-credibility-fighting-force-analysts-say-371780262" />
+      <edge id="4267" source="no" target="http://www.mobile.reuters.com/article/idUSKBN0G907R20140810?irpc=932" />
+      <edge id="4268" source="no" target="http://www.moi.gov.ps/en/Details.aspx?nid=68571" />
+      <edge id="4269" source="no" target="http://www.newsweek.com/un-gaza-rebuilding-halt-end-january-due-lack-funds-301082" />
+      <edge id="4270" source="no" target="http://www.nrk.no/verden/_hjernen_-bak-drapet-pa-israelske-tenaringer-domt-1.12134593" />
+      <edge id="4271" source="no" target="http://www.nrk.no/verden/en-tredagers-vapenhvile-er-i-gang-1.11858508" />
+      <edge id="4272" source="no" target="http://www.nrk.no/verden/gaza-konflikt-kostet-55-milliarder-1.11911033" />
+      <edge id="4273" source="no" target="http://www.nrk.no/verden/holocaust-ofre-anklager-israel-1.11897079" />
+      <edge id="4274" source="no" target="http://www.nrk.no/verden/israel-stadfestar-vapenkvile-1.11899580" />
+      <edge id="4275" source="no" target="http://www.nrk.no/verden/israelske-hoyreekstreme-i-tel-aviv-1.11856465" />
+      <edge id="4276" source="no" target="http://www.nrk.no/verden/kraftverk-angrepet-i-gaza-1.11853840" />
+      <edge id="4277" source="no" target="http://www.nrk.no/verden/mest-oydeleggjande-krig-i-gaza-1.11875584" />
+      <edge id="4278" source="no" target="http://www.nrk.no/verden/palestinsk-icc-soknad-levert-1.12128954" />
+      <edge id="4279" source="no" target="http://www.nytimes.com/2014/09/04/world/middleeast/israel-gaza-hamas-fatah-.html" />
+      <edge id="4280" source="no" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
+      <edge id="4281" source="no" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
+      <edge id="4282" source="no" target="http://www.reuters.com/article/2014/07/27/us-mideast-gaza-usa-hamas-idUSKBN0FW01F20140727" />
+      <edge id="4283" source="no" target="http://www.technologyreview.com/news/528916/israeli-rocket-defense-system-is-failing-at-crucial-task-expert-analysts-say/" />
+      <edge id="4284" source="no" target="http://www.technologyreview.com/view/528991/an-explanation-of-the-evidence-of-weaknesses-in-the-iron-dome-defense-system/" />
+      <edge id="4285" source="no" target="http://www.telegraph.co.uk/news/worldnews/middleeast/gaza/11056976/The-children-killed-in-Gaza-during-50-days-of-conflict.html" />
+      <edge id="4286" source="no" target="http://www.terrorism-info.org.il/Data/articles/Art_20697/E_139_14_1709922468.pdf" />
+      <edge id="4287" source="no" target="http://www.theguardian.com/world/2014/aug/11/damage-gaza-homes-israel-hamas-conflict" />
+      <edge id="4288" source="no" target="http://www.theguardian.com/world/2014/aug/08/-sp-gaza-israeli-strikes-unrwa-schools" />
+      <edge id="4289" source="no" target="http://www.theguardian.com/world/2014/aug/22/gaza-economic-cost-war-factories-destroyed" />
+      <edge id="4290" source="no" target="http://www.theweek.co.uk/middle-east/gaza/60126/gaza-ceasefire-500-children-dead-is-no-sort-of-victory" />
+      <edge id="4291" source="no" target="http://www.usatoday.com/story/news/world/2014/07/30/bolivia-israel-terrorist-state/13384989/" />
+      <edge id="4292" source="no" target="http://www.vg.no/nyheter/meninger/midtoesten/israel-bryter-folkeretten/a/23246485/" />
+      <edge id="4293" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/dette-er-israels-maal/a/23259204/" />
+      <edge id="4294" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/dette-er-gaza-seks-maaneder-etter-krigen/a/23382139/" />
+      <edge id="4295" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/israelsk-skoleangrep-fordoemmes-av-fn/a/23264306/" />
+      <edge id="4296" source="no" target="http://www.vg.no/nyheter/utenriks/gaza/styrker-jerngrepet-om-gaza/a/23258866/" />
+      <edge id="4297" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/nye-israelske-angrep-mot-gazastripen/a/23248931/" />
+      <edge id="4298" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/israel-bombet-hjemmene-til-flere-hamas-ledere/a/23254298/" />
+      <edge id="4299" source="no" target="http://www.vg.no/nyheter/utenriks/midtoesten/vi-vil-ikke-gi-oss-foer-de-er-i-vaare-hender/a/23243869/" />
+      <edge id="4300" source="no" target="http://www.vg.no/nyheter/utenriks/palestina/ban-ki-moon-godtar-palestinsk-icc-soeknad/a/23369688/" />
+      <edge id="4301" source="no" target="http://www.washingtonpost.com/blogs/worldviews/wp/2014/09/03/heres-what-really-happened-in-the-gaza-war-according-to-the-israelis/" />
+      <edge id="4302" source="no" target="http://www.washingtontimes.com/news/2014/aug/9/rockets-airstrikes-after-gaza-war-truce-collapses/?page=all" />
+      <edge id="4303" source="no" target="https://d-nb.info/gnd/1059754894" />
+      <edge id="4304" source="no" target="https://id.loc.gov/authorities/sh2016001997" />
       <edge id="4305" source="no" target="https://web.archive.org/web/20140808054839/http://mfa.gov.il/MFA/ForeignPolicy/Terrorism/Pages/Sderot-factory-destroyed-by-rocket-fire-29-Jun-2014.aspx" />
       <edge id="4306" source="no" target="https://web.archive.org/web/20140903032637/http://www.moi.gov.ps/en/Details.aspx?nid=68571" />
       <edge id="4307" source="no" target="https://web.archive.org/web/20140913014525/http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
@@ -8594,16 +8594,16 @@
       <edge id="4499" source="pt" target="http://www.ynetnews.com/articles/0,7340,L-4542765,00.html" />
       <edge id="4500" source="pt" target="https://uk.news.yahoo.com/gaza-residents-told-leave-own-safety-195208661.html" />
       <edge id="4501" source="pt" target="https://www.middleeastmonitor.com/news/americas/13172-unicef-israel-deliberately-killed-264-palestinian-children-in-gaza" />
-      <edge id="4502" source="ro" target="//tools.wmflabs.org/geohack/geohack.php?pagename=Opera%C8%9Biunea_Protective_Edge&amp;params=30.67_N_34.83_E_type:other&amp;language=ro" />
-      <edge id="4503" source="ro" target="http://adevarul.ro/international/in-lume/Inca-noapte-luminata-rachete-gaza-bilantul-mortilor-ajunge-187-1_53c4b86b0d133766a8704f03/index.html" />
-      <edge id="4504" source="ro" target="http://bigstory.ap.org/article/israel-says-its-downed-drone-along-southern-coast" />
-      <edge id="4505" source="ro" target="http://www.independent.co.uk/news/world/europe/israelgaza-conflict-synagogues-attacked-as-propalestinian-protest-in-paris-turns-violent-9604254.html" />
-      <edge id="4506" source="ro" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
-      <edge id="4507" source="ro" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
-      <edge id="4508" source="ro" target="http://www.jpost.com/Operation-Protective-Edge/IDF-chief-Gantz-asks-for-call-up-of-40000-reserves-amid-Operation-Protective-Edge-361953" />
-      <edge id="4509" source="ro" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
-      <edge id="4510" source="ro" target="http://www.theguardian.com/world/2014/jul/08/operation-protective-edge-israel-bombs-gaza-in-retaliation-for-rockets" />
-      <edge id="4511" source="ro" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
+      <edge id="4502" source="ro" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
+      <edge id="4503" source="ro" target="http://www.jpost.com/Operation-Protective-Edge/IDF-chief-Gantz-asks-for-call-up-of-40000-reserves-amid-Operation-Protective-Edge-361953" />
+      <edge id="4504" source="ro" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
+      <edge id="4505" source="ro" target="http://www.theguardian.com/world/2014/jul/08/operation-protective-edge-israel-bombs-gaza-in-retaliation-for-rockets" />
+      <edge id="4506" source="ro" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
+      <edge id="4507" source="ro" target="http://bigstory.ap.org/article/israel-says-its-downed-drone-along-southern-coast" />
+      <edge id="4508" source="ro" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_15_07_2014.pdf" />
+      <edge id="4509" source="ro" target="//tools.wmflabs.org/geohack/geohack.php?pagename=Opera%C8%9Biunea_Protective_Edge&amp;params=30.67_N_34.83_E_type:other&amp;language=ro" />
+      <edge id="4510" source="ro" target="http://adevarul.ro/international/in-lume/Inca-noapte-luminata-rachete-gaza-bilantul-mortilor-ajunge-187-1_53c4b86b0d133766a8704f03/index.html" />
+      <edge id="4511" source="ro" target="http://www.independent.co.uk/news/world/europe/israelgaza-conflict-synagogues-attacked-as-propalestinian-protest-in-paris-turns-violent-9604254.html" />
       <edge id="4512" source="ro" target="https://commons.wikimedia.org/wiki/Category:Operation_Protective_Edge?uselang=ro" />
       <edge id="4513" source="ru" target="http://9tv.co.il/news/2014/07/08/179763.html" />
       <edge id="4514" source="ru" target="http://9tv.co.il/news/2014/07/08/179774.html" />
@@ -9337,105 +9337,105 @@
       <edge id="5242" source="vi" target="http://www.faz.net/aktuell/politik/israel-und-gaza-rakete-um-rakete-13042080-p2.html" />
       <edge id="5243" source="vi" target="http://www.sueddeutsche.de/politik/neuer-gaza-krieg-zerfetzte-welt-1.2041851-2" />
       <edge id="5244" source="vi" target="http://www.tagesschau.de/ausland/gaza-waffenruhe-100.html" />
-      <edge id="5245" source="zh" target="http://news.sina.com.cn/o/2014-07-09/091930492061.shtml" />
-      <edge id="5246" source="zh" target="http://news.sina.com.cn/w/2014-07-09/130730493369.shtml" />
-      <edge id="5247" source="zh" target="http://america.aljazeera.com/articles/2014/7/7/israel-launched-deadlyairstrikesingaza.html" />
-      <edge id="5248" source="zh" target="http://america.aljazeera.com/articles/2014/7/8/israeli-palestinianclashesupsettingisraelifaithinstatusquo.html" />
-      <edge id="5249" source="zh" target="http://m.aljazeera.com/story/2014730233016747143" />
-      <edge id="5250" source="zh" target="http://www.bbc.com/news/world-middle-east-28156268" />
-      <edge id="5251" source="zh" target="http://www.cbsnews.com/news/israel-ids-2-main-suspects-in-teens-disappearance/" />
-      <edge id="5252" source="zh" target="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
-      <edge id="5253" source="zh" target="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" />
-      <edge id="5254" source="zh" target="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" />
-      <edge id="5255" source="zh" target="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" />
-      <edge id="5256" source="zh" target="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" />
-      <edge id="5257" source="zh" target="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" />
-      <edge id="5258" source="zh" target="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" />
-      <edge id="5259" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" />
-      <edge id="5260" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/1.603472" />
-      <edge id="5261" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/1.605994" />
-      <edge id="5262" source="zh" target="http://www.haaretz.com/news/features/word-of-the-day/.premium-1.605936#!" />
-      <edge id="5263" source="zh" target="http://www.israelnationalnews.com/News/News.aspx/149498#.TrhgmnF4Vow" />
-      <edge id="5264" source="zh" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
-      <edge id="5265" source="zh" target="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
-      <edge id="5266" source="zh" target="http://www.jpost.com/Arab-Israeli-Conflict/Report-3-prisoners-captured-in-Operation-Protective-Edge-released-371252" />
-      <edge id="5267" source="zh" target="http://www.jpost.com/Operation-Protective-Edge/50-days-of-Israels-Gaza-operation-Protective-Edge-by-the-numbers-372574" />
-      <edge id="5268" source="zh" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
-      <edge id="5269" source="zh" target="http://www.mdais.com/316/7004.htm" />
-      <edge id="5270" source="zh" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
-      <edge id="5271" source="zh" target="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" />
-      <edge id="5272" source="zh" target="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" />
-      <edge id="5273" source="zh" target="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
-      <edge id="5274" source="zh" target="http://cn.nytimes.com/world/20140717/c17israel/" />
-      <edge id="5275" source="zh" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=0" />
-      <edge id="5276" source="zh" target="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" />
-      <edge id="5277" source="zh" target="http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" />
-      <edge id="5278" source="zh" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
-      <edge id="5279" source="zh" target="http://www.thenewslens.com/post/65943/" />
-      <edge id="5280" source="zh" target="http://time.com/3182848/israel-gaza-ceasefire-abbas-netanyahu/" />
-      <edge id="5281" source="zh" target="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" />
-      <edge id="5282" source="zh" target="http://www.timesofisrael.com/islamic-jihad-121-of-our-fighters-killed-in-gaza/" />
-      <edge id="5283" source="zh" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive/" />
-      <edge id="5284" source="zh" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive" />
-      <edge id="5285" source="zh" target="http://www.timesofisrael.com/name-protective-edge-doesnt-cut-it" />
-      <edge id="5286" source="zh" target="http://www.timesofisrael.com/netanyahu-hamas-behind-kidnapping-of-three-teenagers/#ixzz35Dg026iL" />
-      <edge id="5287" source="zh" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
-      <edge id="5288" source="zh" target="http://www.timesofisrael.com/suspects-arrested-in-killing-of-east-jerusalem-teen/" />
-      <edge id="5289" source="zh" target="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" />
-      <edge id="5290" source="zh" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
-      <edge id="5291" source="zh" target="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
-      <edge id="5292" source="zh" target="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
-      <edge id="5293" source="zh" target="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" />
-      <edge id="5294" source="zh" target="http://news.xinhuanet.com/2014-07/20/c_126772882.htm" />
-      <edge id="5295" source="zh" target="http://news.xinhuanet.com/world/2014-07/08/c_1111518733.htm" />
-      <edge id="5296" source="zh" target="http://www.ynetnews.com/articles/0,7340,L-4532764,00.html" />
-      <edge id="5297" source="zh" target="http://www.ynetnews.com/articles/0,7340,L-4539234,00.html" />
-      <edge id="5298" source="zh" target="http://v.youku.com/v_show/id_XNzUxMDgwMDA4.html" />
-      <edge id="5299" source="zh" target="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" />
-      <edge id="5300" source="zh" target="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" />
-      <edge id="5301" source="zh" target="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
-      <edge id="5302" source="zh" target="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" />
-      <edge id="5303" source="zh" target="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
-      <edge id="5304" source="zh" target="http://www.ynet.co.il/home/0,7340,L-11584,00.html" />
-      <edge id="5305" source="zh" target="http://www.terrorism-info.org.il/Data/articles/Art_20753/E_200_14_172393803.pdf" />
-      <edge id="5306" source="zh" target="http://www.terrorism-info.org.il/Data/articles/Art_20774/E_020_15_614553775.pdf" />
-      <edge id="5307" source="zh" target="http://reliefweb.int/sites/reliefweb.int/files/resources/annual_humanitarian_overview_2014_english_final.pdf" />
-      <edge id="5308" source="zh" target="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" />
-      <edge id="5309" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
-      <edge id="5310" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
-      <edge id="5311" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711780" />
-      <edge id="5312" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
-      <edge id="5313" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=751290" />
-      <edge id="5314" source="zh" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
-      <edge id="5315" source="zh" target="http://www.middleeasteye.net/news/hamas-gains-credibility-fighting-force-analysts-say-371780262" />
-      <edge id="5316" source="zh" target="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" />
-      <edge id="5317" source="zh" target="http://www.imemc.org/article/68969" />
-      <edge id="5318" source="zh" target="http://www.jta.org/2014/07/07/news-opinion/israel-middle-east/israel-planning-to-escalate-gaza-strikes-as-rocket-attacks-increase" />
-      <edge id="5319" source="zh" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
-      <edge id="5320" source="zh" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
-      <edge id="5321" source="zh" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
-      <edge id="5322" source="zh" target="http://www.unrwa.org/newsroom/press-releases/unrwa-strongly-condemns-placement-rockets-school" />
-      <edge id="5323" source="zh" target="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" />
-      <edge id="5324" source="zh" target="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
-      <edge id="5325" source="zh" target="http://www.aa.com.tr/en/world/355946--from-shield-to-edge-how-israel-names-its-military-ops" />
-      <edge id="5326" source="zh" target="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" />
-      <edge id="5327" source="zh" target="http://m.news.sina.com.tw/article/20140802/13028508.html" />
-      <edge id="5328" source="zh" target="http://www.bbc.co.uk/zhongwen/simp/world/2014/07/140719_gaza_casualties.shtml" />
-      <edge id="5329" source="zh" target="http://www.independent.co.uk/news/world/middle-east/israelgaza-conflict-hamas-says-longterm-truce-agreed-with-israel-9691910.html" />
-      <edge id="5330" source="zh" target="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
-      <edge id="5331" source="zh" target="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" />
-      <edge id="5332" source="zh" target="https://twitter.com/IDFSpokesperson/status/490157335914901504/photo/1" />
-      <edge id="5333" source="zh" target="https://twitter.com/Sophia_MJones/statuses/490797544914448385" />
-      <edge id="5334" source="zh" target="https://www.youtube.com/watch?v=SM6WUoel7xk" />
-      <edge id="5335" source="zh" target="https://www.youtube.com/watch?v=xjkwIMRZI8o" />
-      <edge id="5336" source="zh" target="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
-      <edge id="5337" source="zh" target="https://web.archive.org/web/20140727005451/http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
-      <edge id="5338" source="zh" target="https://web.archive.org/web/20140803200140/http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" />
-      <edge id="5339" source="zh" target="https://web.archive.org/web/20140808044248/http://m.aljazeera.com/story/2014730233016747143" />
-      <edge id="5340" source="zh" target="https://web.archive.org/web/20140812224510/http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles/" />
-      <edge id="5341" source="zh" target="https://web.archive.org/web/20140913014525/http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
-      <edge id="5342" source="zh" target="https://web.archive.org/web/20150626164255/http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
-      <edge id="5343" source="zh" target="https://web.archive.org/web/20160305011850/http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
+      <edge id="5245" source="zh" target="//tools.wmflabs.org/geohack/geohack.php?language=zh&amp;pagename=2014%E5%B9%B4%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81&amp;params=30_40_N_34_50_E_" />
+      <edge id="5246" source="zh" target="http://america.aljazeera.com/articles/2014/7/7/israel-launched-deadlyairstrikesingaza.html" />
+      <edge id="5247" source="zh" target="http://america.aljazeera.com/articles/2014/7/8/israeli-palestinianclashesupsettingisraelifaithinstatusquo.html" />
+      <edge id="5248" source="zh" target="http://cn.nhandan.org.vn/mobile/mobile_political/mobile_national_review/item/2205801.html" />
+      <edge id="5249" source="zh" target="http://cn.nytimes.com/world/20140717/c17israel/" />
+      <edge id="5250" source="zh" target="http://cn.rfi.fr/%E6%94%BF%E6%B2%BB/20140720-%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C%E6%96%A1%E6%97%8B%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81" />
+      <edge id="5251" source="zh" target="http://edition.cnn.com/2014/07/07/world/meast/mideast-tensions/" />
+      <edge id="5252" source="zh" target="http://edition.cnn.com/2014/07/17/world/meast/mideast-crisis/index.html?hpt=hp_t2" />
+      <edge id="5253" source="zh" target="http://fox2now.com/2014/07/19/death-toll-in-gaza-tops-300-official-says/" />
+      <edge id="5254" source="zh" target="http://freebeacon.com/national-security/palestinian-authority-president-slams-hamas-claims-of-victory/" />
+      <edge id="5255" source="zh" target="http://hk.apple.nextmedia.com/realtime/international/20140827/52837355" />
+      <edge id="5256" source="zh" target="http://m.aljazeera.com/story/2014730233016747143" />
+      <edge id="5257" source="zh" target="http://m.news.sina.com.tw/article/20140802/13028508.html" />
+      <edge id="5258" source="zh" target="http://news.sina.com.cn/o/2014-07-09/091930492061.shtml" />
+      <edge id="5259" source="zh" target="http://news.sina.com.cn/w/2014-07-09/130730493369.shtml" />
+      <edge id="5260" source="zh" target="http://news.xinhuanet.com/2014-07/20/c_126772882.htm" />
+      <edge id="5261" source="zh" target="http://news.xinhuanet.com/world/2014-07/08/c_1111518733.htm" />
+      <edge id="5262" source="zh" target="http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html" />
+      <edge id="5263" source="zh" target="http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles" />
+      <edge id="5264" source="zh" target="http://reliefweb.int/sites/reliefweb.int/files/resources/annual_humanitarian_overview_2014_english_final.pdf" />
+      <edge id="5265" source="zh" target="http://time.com/3182848/israel-gaza-ceasefire-abbas-netanyahu/" />
+      <edge id="5266" source="zh" target="http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
+      <edge id="5267" source="zh" target="http://v.youku.com/v_show/id_XNzUxMDgwMDA4.html" />
+      <edge id="5268" source="zh" target="http://www.aa.com.tr/en/world/355946--from-shield-to-edge-how-israel-names-its-military-ops" />
+      <edge id="5269" source="zh" target="http://www.bbc.co.uk/zhongwen/simp/world/2014/07/140719_gaza_casualties.shtml" />
+      <edge id="5270" source="zh" target="http://www.bbc.com/news/world-middle-east-28156268" />
+      <edge id="5271" source="zh" target="http://www.cbsnews.com/news/israel-ids-2-main-suspects-in-teens-disappearance/" />
+      <edge id="5272" source="zh" target="http://www.csmonitor.com/World/Middle-East/2014/0707/Ending-detente-Hamas-takes-responsibility-for-today-s-spike-in-rocket-fire-video" />
+      <edge id="5273" source="zh" target="http://www.debka.com/article/24114/Thirteen-IDF-Golani-soldiers-killed-in-Gaza-at-start-of-urban-stage-of-Israel%E2%80%99s-operation-against-Hamas" />
+      <edge id="5274" source="zh" target="http://www.economist.com/news/middle-east-and-africa/21606288-murder-three-kidnapped-israeli-youths-has-set-dangerous-new-spate" />
+      <edge id="5275" source="zh" target="http://www.epochtimes.com.tw/n98795/%E5%8D%94%E8%AD%B0%E5%81%9C%E7%81%AB3%E5%A4%A9-%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81%E8%BF%91%E5%B0%BE%E8%81%B2.html" />
+      <edge id="5276" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/1.603472" />
+      <edge id="5277" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/1.605994" />
+      <edge id="5278" source="zh" target="http://www.haaretz.com/news/diplomacy-defense/.premium-1.606012" />
+      <edge id="5279" source="zh" target="http://www.haaretz.com/news/features/word-of-the-day/.premium-1.605936#!" />
+      <edge id="5280" source="zh" target="http://www.imemc.org/article/68969" />
+      <edge id="5281" source="zh" target="http://www.independent.co.uk/news/world/middle-east/israelgaza-conflict-hamas-says-longterm-truce-agreed-with-israel-9691910.html" />
+      <edge id="5282" source="zh" target="http://www.israelnationalnews.com/News/News.aspx/149498#.TrhgmnF4Vow" />
+      <edge id="5283" source="zh" target="http://www.jewishpress.com/news/breaking-news/idfs-operation-protective-edge-begins-against-gaza/2014/07/08/" />
+      <edge id="5284" source="zh" target="http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Hamas-failed-achieved-nothing-except-sustaining-worst-blow-since-its-founding-372535" />
+      <edge id="5285" source="zh" target="http://www.jpost.com/Arab-Israeli-Conflict/Report-3-prisoners-captured-in-Operation-Protective-Edge-released-371252" />
+      <edge id="5286" source="zh" target="http://www.jpost.com/Operation-Protective-Edge/Videos-show-Lebanese-jihadi-group-active-in-Gaza-362355" />
+      <edge id="5287" source="zh" target="http://www.jpost.com/Operation-Protective-Edge/50-days-of-Israels-Gaza-operation-Protective-Edge-by-the-numbers-372574" />
+      <edge id="5288" source="zh" target="http://www.jta.org/2014/07/07/news-opinion/israel-middle-east/israel-planning-to-escalate-gaza-strikes-as-rocket-attacks-increase" />
+      <edge id="5289" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=710388" />
+      <edge id="5290" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711019" />
+      <edge id="5291" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=715014" />
+      <edge id="5292" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=711780" />
+      <edge id="5293" source="zh" target="http://www.maannews.net/eng/ViewDetails.aspx?ID=751290" />
+      <edge id="5294" source="zh" target="http://www.mdais.com/316/7004.htm" />
+      <edge id="5295" source="zh" target="http://www.memri.org/report/en/0/0/0/0/0/0/8083.htm" />
+      <edge id="5296" source="zh" target="http://www.metroradio.com.hk/997/News/Default.aspx?NewsID=20140811235619" />
+      <edge id="5297" source="zh" target="http://www.middleeasteye.net/news/20-palestinians-killed-overnight-un-holds-emergency-talks-980381607" />
+      <edge id="5298" source="zh" target="http://www.middleeasteye.net/news/hamas-gains-credibility-fighting-force-analysts-say-371780262" />
+      <edge id="5299" source="zh" target="http://www.newrepublic.com/article/118630/israel-palestine-murders-cause-criss-will-john-kerry-step" />
+      <edge id="5300" source="zh" target="http://www.ntdtv.com/xtr/b5/2014/08/14/a1130439.html" />
+      <edge id="5301" source="zh" target="http://www.nytimes.com/2014/07/09/world/middleeast/israel-steps-up-offensive-against-hamas-in-gaza.html?_r=0" />
+      <edge id="5302" source="zh" target="http://www.nytimes.com/2014/07/19/world/middleeast/israel-gaza.html?_r=0" />
+      <edge id="5303" source="zh" target="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11297080" />
+      <edge id="5304" source="zh" target="http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
+      <edge id="5305" source="zh" target="http://www.orientaldaily.com.my/index.php?option=com_k2&amp;view=item&amp;id=131282:&amp;Itemid=197" />
+      <edge id="5306" source="zh" target="http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
+      <edge id="5307" source="zh" target="http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" />
+      <edge id="5308" source="zh" target="http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
+      <edge id="5309" source="zh" target="http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10901225/Hamas-kidnapping-Islamist-group-to-blame-for-youths-kidnapping-Benjamin-Netanyahu-says.html" />
+      <edge id="5310" source="zh" target="http://www.terrorism-info.org.il/Data/articles/Art_20753/E_200_14_172393803.pdf" />
+      <edge id="5311" source="zh" target="http://www.terrorism-info.org.il/Data/articles/Art_20774/E_020_15_614553775.pdf" />
+      <edge id="5312" source="zh" target="http://www.theguardian.com/world/2014/jul/30/us-firm-condemnation-shelling-un-school-gaza" />
+      <edge id="5313" source="zh" target="http://www.thenewslens.com/post/65943/" />
+      <edge id="5314" source="zh" target="http://www.timesofisrael.com/for-israel-in-gaza-a-delicate-balancing-act/" />
+      <edge id="5315" source="zh" target="http://www.timesofisrael.com/islamic-jihad-121-of-our-fighters-killed-in-gaza/" />
+      <edge id="5316" source="zh" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive/" />
+      <edge id="5317" source="zh" target="http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive" />
+      <edge id="5318" source="zh" target="http://www.timesofisrael.com/name-protective-edge-doesnt-cut-it" />
+      <edge id="5319" source="zh" target="http://www.timesofisrael.com/netanyahu-hamas-behind-kidnapping-of-three-teenagers/#ixzz35Dg026iL" />
+      <edge id="5320" source="zh" target="http://www.timesofisrael.com/spate-of-riots-erupt-in-northern-israel/" />
+      <edge id="5321" source="zh" target="http://www.timesofisrael.com/suspects-arrested-in-killing-of-east-jerusalem-teen/" />
+      <edge id="5322" source="zh" target="http://www.tlvfaces.com/finnish-tv-reporter-gazas-al-shifa-hospital-true-rockets-launched-gazan-side-israel-video/" />
+      <edge id="5323" source="zh" target="http://www.unrwa.org/newsroom/press-releases/unrwa-strongly-condemns-placement-rockets-school" />
+      <edge id="5324" source="zh" target="http://www.voanews.com/content/israel-makes-first-ground-incursion-in-gaza/1956454.html" />
+      <edge id="5325" source="zh" target="http://www.washingtontimes.com/news/2014/aug/18/despite-less-sanctions-iran-backs-hamas/?page=all" />
+      <edge id="5326" source="zh" target="http://www.worldjournal.com/view/full_van/25676566/article-%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB-7%E5%B9%B4%E5%8A%A0%E8%96%A" />
+      <edge id="5327" source="zh" target="http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
+      <edge id="5328" source="zh" target="http://www.ynet.co.il/home/0,7340,L-11584,00.html" />
+      <edge id="5329" source="zh" target="http://www.ynetnews.com/articles/0,7340,L-4532764,00.html" />
+      <edge id="5330" source="zh" target="http://www.ynetnews.com/articles/0,7340,L-4539234,00.html" />
+      <edge id="5331" source="zh" target="http://www.youtube.com/watch?v=bKjmdDObIfc&amp;feature=youtu.be" />
+      <edge id="5332" source="zh" target="https://archive.is/20140828023420/http://www.worldjournal.com/view/full_van/25637070/article-%E5%81%9C%E7%81%AB%E5%8F%88%E7%A0%B4%E5%B1%80-%E5%93%88%E7%91%AA%E6%96%AF%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A6%BB%E5%A5%B3%E8%A2%AB%E7%82%B8%E6%AD%BB?instance=bc_bull_left1" />
+      <edge id="5333" source="zh" target="https://twitter.com/IDFSpokesperson/status/490157335914901504/photo/1" />
+      <edge id="5334" source="zh" target="https://twitter.com/Sophia_MJones/statuses/490797544914448385" />
+      <edge id="5335" source="zh" target="https://web.archive.org/web/20140727005451/http://travel.state.gov/content/passports/english/alertswarnings/israel-travel-warning.html" />
+      <edge id="5336" source="zh" target="https://web.archive.org/web/20140803200140/http://www.presstv.com/detail/2014/08/01/373638/hamas-captures-1-kills-2-israeli-troops/" />
+      <edge id="5337" source="zh" target="https://web.archive.org/web/20140808044248/http://m.aljazeera.com/story/2014730233016747143" />
+      <edge id="5338" source="zh" target="https://web.archive.org/web/20140812224510/http://pflp.ps/english/2014/08/09/abu-jamal-palestinian-resistance-continues-to-confront-the-occupier-with-rockets-and-missiles/" />
+      <edge id="5339" source="zh" target="https://web.archive.org/web/20140913014525/http://www.ochaopt.org/documents/ocha_opt_sitrep_04_09_2014.pdf" />
+      <edge id="5340" source="zh" target="https://web.archive.org/web/20150626164255/http://www.pchrgaza.org/portal/en/index.php?option=com_content&amp;view=article&amp;id=10491:statistics-victims-of-the-israeli-offensive-on-gaza-since-08-july-2014&amp;catid=145:in-focus" />
+      <edge id="5341" source="zh" target="https://web.archive.org/web/20160305011850/http://www.skypost.hk/%E4%B8%AD%E5%9C%8B%E5%9C%8B%E9%9A%9B/%E5%9C%8B%E9%9A%9B/20140828/014/%E4%BB%A5%E5%B7%B4%E7%84%A1%E9%99%90%E6%9C%9F%E5%81%9C%E7%81%AB%20%E5%8A%A0%E6%B2%99%E7%8B%82%E6%AD%A1/151671" />
+      <edge id="5342" source="zh" target="https://www.youtube.com/watch?v=SM6WUoel7xk" />
+      <edge id="5343" source="zh" target="https://www.youtube.com/watch?v=xjkwIMRZI8o" />
     </edges>
   </graph>
 </gexf>
